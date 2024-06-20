@@ -1,25 +1,25 @@
-[16:13:33] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[16:13:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:13:37] [ServerMain/INFO]: Loaded 1290 recipes
-[16:13:37] [ServerMain/INFO]: Loaded 1399 advancements
-[16:13:38] [Server thread/INFO]: Starting minecraft server version 1.21
-[16:13:38] [Server thread/INFO]: Loading properties
-[16:13:38] [Server thread/INFO]: Default game type: SURVIVAL
-[16:13:38] [Server thread/INFO]: Generating keypair
-[16:13:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:13:38] [Server thread/INFO]: Using default channel type
-[16:13:38] [Server thread/INFO]: Preparing level "world"
-[16:13:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:13:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:13:39] [Server thread/INFO]: Time elapsed: 260 ms
-[16:13:39] [Server thread/INFO]: Done (0.882s)! For help, type "help"
-[16:13:41] [Server thread/INFO]: Stopping server
-[16:13:41] [Server thread/INFO]: Saving players
-[16:13:41] [Server thread/INFO]: Saving worlds
-[16:13:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:13:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:13:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:13:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:13:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:13:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:13:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:27:07] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[16:27:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:27:10] [ServerMain/INFO]: Loaded 1290 recipes
+[16:27:10] [ServerMain/INFO]: Loaded 1399 advancements
+[16:27:11] [Server thread/INFO]: Starting minecraft server version 1.21
+[16:27:11] [Server thread/INFO]: Loading properties
+[16:27:11] [Server thread/INFO]: Default game type: SURVIVAL
+[16:27:11] [Server thread/INFO]: Generating keypair
+[16:27:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:27:12] [Server thread/INFO]: Using default channel type
+[16:27:12] [Server thread/INFO]: Preparing level "world"
+[16:27:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:27:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:27:13] [Server thread/INFO]: Time elapsed: 278 ms
+[16:27:13] [Server thread/INFO]: Done (0.901s)! For help, type "help"
+[16:27:21] [Server thread/INFO]: Stopping server
+[16:27:21] [Server thread/INFO]: Saving players
+[16:27:21] [Server thread/INFO]: Saving worlds
+[16:27:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:27:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:27:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:27:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:27:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:27:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:27:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
