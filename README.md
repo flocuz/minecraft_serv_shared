@@ -7,7 +7,7 @@
   - Saisir les lignes suivantes :
   - git config --global user.email "ton email ici ou un autre truc comme tu veux"
   - git config --global user.name "ton blaze ou nom de joueur"
-- Aller dans le registre de ton pc : touche windows, saisir "path" et cliquer sur "Modifier les variables d'envirronement systeme"
+- Aller dans les variables de ton pc : touche windows, saisir "path" et cliquer sur "Modifier les variables d'envirronement systeme"
   - cliquer sur "Variables d'environnement"
   - dans la liste du bas double cliquer sur "Path" (a gauche de la liste)
   - Cliquer sur Nouveau
@@ -34,3 +34,8 @@ Télécharger et installer Hamachi a l'adresse suivante https://vpn.net/ . Lance
 Une fois le compte créé il suffit de soit faire un groupe si c'est la premiere fois soit rejoindre celui habituel avec les autres.
 
 Pour rejoindre le serveur il faut utiliser l'adresse (IPV4, dans hamachi, clic droit, copié IPV4) de celui qui a lancé le serveur
+
+
+## Modifications des parametres du serveur
+
+Les parametres du serv sont dans le fichier "server.properties", pour que les modifications soient bien sauvegardées il faut les faire pendant que le serveur tourne (la sauvegarde se fait à la fermeture)
