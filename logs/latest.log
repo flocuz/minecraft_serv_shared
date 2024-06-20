@@ -1,30 +1,30 @@
-[15:26:52] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[15:26:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:26:56] [ServerMain/INFO]: Loaded 1290 recipes
-[15:26:56] [ServerMain/INFO]: Loaded 1399 advancements
-[15:26:57] [Server thread/INFO]: Starting minecraft server version 1.21
-[15:26:57] [Server thread/INFO]: Loading properties
-[15:26:57] [Server thread/INFO]: Default game type: SURVIVAL
-[15:26:57] [Server thread/INFO]: Generating keypair
-[15:26:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:26:57] [Server thread/INFO]: Using default channel type
-[15:26:57] [Server thread/INFO]: Preparing level "world"
-[15:26:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:26:58] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:26:58] [Server thread/INFO]: Time elapsed: 274 ms
-[15:26:58] [Server thread/INFO]: Done (0.935s)! For help, type "help"
-[15:29:52] [User Authenticator #1/INFO]: UUID of player Oyoyoyy is 040fc4aa-a5fb-4905-9433-325d94f262b1
-[15:29:53] [Server thread/INFO]: Oyoyoyy[/127.0.0.1:50866] logged in with entity id 13 at (4.5, 128.0, 0.5)
-[15:29:53] [Server thread/INFO]: Oyoyoyy joined the game
-[15:31:24] [Server thread/INFO]: Oyoyoyy lost connection: Disconnected
-[15:31:24] [Server thread/INFO]: Oyoyoyy left the game
-[15:31:46] [Server thread/INFO]: Stopping server
-[15:31:46] [Server thread/INFO]: Saving players
-[15:31:46] [Server thread/INFO]: Saving worlds
-[15:31:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:31:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:31:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:31:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:31:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:31:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:31:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:57:53] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[15:57:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:57:57] [ServerMain/INFO]: Loaded 1290 recipes
+[15:57:57] [ServerMain/INFO]: Loaded 1399 advancements
+[15:57:58] [Server thread/INFO]: Starting minecraft server version 1.21
+[15:57:58] [Server thread/INFO]: Loading properties
+[15:57:58] [Server thread/INFO]: Default game type: SURVIVAL
+[15:57:58] [Server thread/INFO]: Generating keypair
+[15:57:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:57:58] [Server thread/INFO]: Using default channel type
+[15:57:58] [Server thread/INFO]: Preparing level "world"
+[15:57:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:57:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:57:59] [Server thread/INFO]: Time elapsed: 273 ms
+[15:57:59] [Server thread/INFO]: Done (0.949s)! For help, type "help"
+[15:59:21] [User Authenticator #1/INFO]: UUID of player Oyoyoyy is 040fc4aa-a5fb-4905-9433-325d94f262b1
+[15:59:22] [Server thread/INFO]: Oyoyoyy[/127.0.0.1:51267] logged in with entity id 24 at (112.41834738307863, 181.0, -11.480811563072717)
+[15:59:22] [Server thread/INFO]: Oyoyoyy joined the game
+[15:59:39] [Server thread/INFO]: Oyoyoyy lost connection: Disconnected
+[15:59:39] [Server thread/INFO]: Oyoyoyy left the game
+[15:59:53] [Server thread/INFO]: Stopping server
+[15:59:53] [Server thread/INFO]: Saving players
+[15:59:53] [Server thread/INFO]: Saving worlds
+[15:59:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:59:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:59:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:59:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:59:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:59:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:59:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
