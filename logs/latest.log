@@ -1,30 +1,44 @@
-[18:16:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:16:53] [ServerMain/INFO]: Loaded 1290 recipes
-[18:16:53] [ServerMain/INFO]: Loaded 1399 advancements
-[18:16:55] [Server thread/INFO]: Starting minecraft server version 1.21
-[18:16:55] [Server thread/INFO]: Loading properties
-[18:16:55] [Server thread/INFO]: Default game type: SURVIVAL
-[18:16:55] [Server thread/INFO]: Generating keypair
-[18:16:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:16:55] [Server thread/INFO]: Using default channel type
-[18:16:55] [Server thread/INFO]: Preparing level "world"
-[18:16:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:16:57] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:16:57] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:16:58] [Server thread/INFO]: Time elapsed: 660 ms
-[18:16:58] [Server thread/INFO]: Done (2.364s)! For help, type "help"
-[18:19:42] [User Authenticator #1/INFO]: UUID of player Tris23 is 6aead32f-d501-4c44-a7df-759b55ab3f9e
-[18:19:43] [Server thread/INFO]: Tris23[/127.0.0.1:56566] logged in with entity id 17 at (-3.5, 127.0, -5.5)
-[18:19:43] [Server thread/INFO]: Tris23 joined the game
-[18:20:39] [Server thread/INFO]: Tris23 lost connection: Disconnected
-[18:20:39] [Server thread/INFO]: Tris23 left the game
-[18:21:10] [Server thread/INFO]: Stopping server
-[18:21:10] [Server thread/INFO]: Saving players
-[18:21:10] [Server thread/INFO]: Saving worlds
-[18:21:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:21:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:21:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:21:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:21:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:21:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:21:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:29:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:29:04] [ServerMain/INFO]: Loaded 1290 recipes
+[18:29:04] [ServerMain/INFO]: Loaded 1399 advancements
+[18:29:06] [Server thread/INFO]: Starting minecraft server version 1.21
+[18:29:06] [Server thread/INFO]: Loading properties
+[18:29:06] [Server thread/INFO]: Default game type: SURVIVAL
+[18:29:06] [Server thread/INFO]: Generating keypair
+[18:29:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:29:06] [Server thread/INFO]: Using default channel type
+[18:29:06] [Server thread/INFO]: Preparing level "world"
+[18:29:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:29:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:29:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:29:08] [Server thread/INFO]: Time elapsed: 764 ms
+[18:29:08] [Server thread/INFO]: Done (2.619s)! For help, type "help"
+[18:29:52] [User Authenticator #1/INFO]: UUID of player Tris23 is 6aead32f-d501-4c44-a7df-759b55ab3f9e
+[18:29:53] [Server thread/INFO]: Tris23[/127.0.0.1:57448] logged in with entity id 57 at (11.423383347142394, 126.0, 6.5112017311338946)
+[18:29:53] [Server thread/INFO]: Tris23 joined the game
+[18:30:02] [Server thread/INFO]: Tris23 lost connection: Disconnected
+[18:30:02] [Server thread/INFO]: Tris23 left the game
+[18:30:23] [User Authenticator #2/INFO]: UUID of player Tris23 is 6aead32f-d501-4c44-a7df-759b55ab3f9e
+[18:30:23] [Server thread/INFO]: Tris23[/127.0.0.1:57510] logged in with entity id 159 at (-0.1024608827756311, 128.0, -2.2302439140565)
+[18:30:23] [Server thread/INFO]: Tris23 joined the game
+[18:30:55] [Server thread/INFO]: Tris23 lost connection: Disconnected
+[18:30:55] [Server thread/INFO]: Tris23 left the game
+[18:31:58] [User Authenticator #3/INFO]: UUID of player Tris23 is 6aead32f-d501-4c44-a7df-759b55ab3f9e
+[18:31:59] [Server thread/INFO]: Tris23[/127.0.0.1:57640] logged in with entity id 531 at (63.61365411807148, 149.0, -25.20774626172407)
+[18:31:59] [Server thread/INFO]: Tris23 joined the game
+[18:32:19] [Server thread/INFO]: Tris23 was slain by Zombie
+[18:32:21] [Server thread/WARN]: Tris23 moved too quickly! -12.26718579716522,-4.0,19.91354322338457
+[18:32:21] [Server thread/WARN]: Tris23 moved too quickly! -12.26718579716522,-4.0,19.91354322338457
+[18:32:21] [Server thread/WARN]: Tris23 moved too quickly! -12.26718579716522,-4.0,19.91354322338457
+[18:32:41] [Server thread/INFO]: Tris23 lost connection: Disconnected
+[18:32:41] [Server thread/INFO]: Tris23 left the game
+[18:32:51] [Server thread/INFO]: Stopping server
+[18:32:51] [Server thread/INFO]: Saving players
+[18:32:51] [Server thread/INFO]: Saving worlds
+[18:32:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:32:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:32:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:32:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:32:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:32:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:32:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
