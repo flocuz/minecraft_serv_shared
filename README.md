@@ -16,7 +16,7 @@
 - Copie du serveur sur ton pc : 
   - Ouvrir l'explorateur de fichier et aller sur bureau (ou ailleurs mais faut s'en rappeler)
   - Dans la barre en haut de l'explorateur saisir "cmd" et appuyer sur entrée
-  - Dans la fenetre qui s'est ouverte saisir git clone "https://github.com/flocuz/minecraft_serv_shared.git" minecraft_serveur
+  - Dans la fenetre qui s'est ouverte saisir : git clone "https://github.com/flocuz/minecraft_serv_shared.git" minecraft_serveur
   - Ca devrait copier tout les fichiers du serveur
 
 ## Démarrage
@@ -24,7 +24,7 @@
 Double cliquer sur le fichier "maj_lancement_serveur.bat", ça devrait ouvrir 2 fenetres et la fenetre nommée minecraft_serveur est celle qui correspond au serveur.
 Pour arreter le serveur il suffit de fermer la fenetre du serveur.
 
-!!!!! Ne surtout pas fermer la fenetre noire elle se ferme toute seule !!!!!
+!!!!! Ne surtout pas fermer la fenetre noire elle se ferme toute seule a la fermeture du serveur !!!!!
 !!!!! Ne pas lancer le serveur en même temps que quelqu'un d'autre (risque de perte de progression, c'est le dernier à fermer le serveur qui sauvegarde) !!!!
 
 ## Connexion avec les autres
