@@ -33,7 +33,7 @@ Télécharger et installer Hamachi a l'adresse suivante https://vpn.net/ . Lance
 
 Une fois le compte créé il suffit de soit faire un groupe si c'est la premiere fois soit rejoindre celui habituel avec les autres.
 
-Pour rejoindre le serveur il faut utiliser l'adresse (IPV4, dans hamachi, clic droit, copié IPV4) de celui qui a lancé le serveur
+Pour rejoindre le serveur il faut utiliser l'adresse (IPV4, dans hamachi, clic droit, copié IPV4) de celui qui a lancé le serveur, sauf pour celui qui lance (pour lui c'est 127.0.0.1).
 
 
 ## Modifications des parametres du serveur
