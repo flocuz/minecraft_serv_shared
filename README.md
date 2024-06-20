@@ -21,7 +21,7 @@
 
 ## Démarrage
 
-Double cliquer sur le fichier "maj_lancement_serveur.bat", ça devrait ouvrir 2 fenetres et la fenetre nommée minecraft_serveur est celle qui correspond au serveur.
+Double cliquer sur le fichier "maj_lancement_serveur.bat" (dans le dossier qui a été créé sur le bureau), ça devrait ouvrir 2 fenetres et la fenetre nommée minecraft_serveur est celle qui correspond au serveur.
 Pour arreter le serveur il suffit de fermer la fenetre du serveur.
 
 !!!!! Ne surtout pas fermer la fenetre noire elle se ferme toute seule a la fermeture du serveur !!!!!
