@@ -1,68 +1,12 @@
-[21:34:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:34:07] [ServerMain/INFO]: Loaded 1290 recipes
-[21:34:08] [ServerMain/INFO]: Loaded 1399 advancements
-[21:34:09] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:34:09] [Server thread/INFO]: Loading properties
-[21:34:09] [Server thread/INFO]: Default game type: SURVIVAL
-[21:34:09] [Server thread/INFO]: Generating keypair
-[21:34:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:34:09] [Server thread/INFO]: Using default channel type
-[21:34:10] [Server thread/INFO]: Preparing level "world"
-[21:34:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:34:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:34:12] [Server thread/INFO]: Time elapsed: 510 ms
-[21:34:12] [Server thread/INFO]: Done (2.136s)! For help, type "help"
-[21:35:43] [User Authenticator #1/INFO]: UUID of player Tris23 is 6aead32f-d501-4c44-a7df-759b55ab3f9e
-[21:35:44] [Server thread/INFO]: Tris23[/127.0.0.1:50936] logged in with entity id 83 at (39.78368745705001, 130.0, -8.337574315875898)
-[21:35:44] [Server thread/INFO]: Tris23 joined the game
-[21:36:03] [User Authenticator #2/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[21:36:04] [Server thread/INFO]: Evandre[/25.40.172.12:63983] logged in with entity id 291 at (43.38910463221629, 130.0, -8.458949440125066)
-[21:36:04] [Server thread/INFO]: Evandre joined the game
-[21:36:19] [Server thread/WARN]: Player Evandre just tried to change non-editable sign
-[21:36:30] [Server thread/WARN]: Player Evandre just tried to change non-editable sign
-[21:45:17] [Server thread/INFO]: Evandre lost connection: Disconnected
-[21:45:17] [Server thread/INFO]: Evandre left the game
-[21:45:38] [User Authenticator #3/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[21:45:39] [Server thread/INFO]: Evandre[/25.40.172.12:64005] logged in with entity id 2695 at (-56.973043031179934, 110.25220334025373, -68.0642014924166)
-[21:45:39] [Server thread/INFO]: Evandre joined the game
-[21:45:56] [Server thread/INFO]: Evandre was slain by Zombie
-[21:47:20] [Server thread/INFO]: Evandre lost connection: Disconnected
-[21:47:20] [Server thread/INFO]: Evandre left the game
-[21:47:41] [User Authenticator #4/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[21:47:43] [Server thread/INFO]: Evandre[/25.40.172.12:64022] logged in with entity id 2980 at (51.59467089412497, 128.23152379758702, -8.370019561182051)
-[21:47:43] [Server thread/INFO]: Evandre joined the game
-[21:47:54] [Server thread/WARN]: Player Evandre just tried to change non-editable sign
-[21:49:44] [Server thread/INFO]: Evandre lost connection: Disconnected
-[21:49:44] [Server thread/INFO]: Evandre left the game
-[21:50:04] [User Authenticator #5/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[21:50:05] [Server thread/INFO]: Evandre[/25.40.172.12:64034] logged in with entity id 3357 at (-93.69614592699399, 103.0, -4.517928445788748)
-[21:50:05] [Server thread/INFO]: Evandre joined the game
-[21:50:35] [Server thread/INFO]: Evandre lost connection: Timed out
-[21:50:35] [Server thread/INFO]: Evandre left the game
-[21:51:37] [User Authenticator #6/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[21:51:38] [Server thread/INFO]: Evandre[/25.40.172.12:64044] logged in with entity id 3574 at (-93.69614592699399, 103.0, -4.517928445788748)
-[21:51:38] [Server thread/INFO]: Evandre joined the game
-[21:51:50] [Server thread/INFO]: Evandre lost connection: Disconnected
-[21:51:50] [Server thread/INFO]: Evandre left the game
-[21:52:57] [User Authenticator #7/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[21:52:59] [Server thread/INFO]: Evandre[/25.40.172.12:64145] logged in with entity id 3899 at (-93.69614592699399, 103.0, -4.517928445788748)
-[21:52:59] [Server thread/INFO]: Evandre joined the game
-[21:54:18] [Server thread/INFO]: Evandre lost connection: Disconnected
-[21:54:18] [Server thread/INFO]: Evandre left the game
-[21:54:45] [User Authenticator #8/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[21:54:47] [Server thread/INFO]: Evandre[/25.40.172.12:64153] logged in with entity id 4328 at (-188.3345714139933, 94.0, -66.86276182823057)
-[21:54:47] [Server thread/INFO]: Evandre joined the game
-[21:55:29] [Server thread/INFO]: Evandre lost connection: Disconnected
-[21:55:29] [Server thread/INFO]: Evandre left the game
-[21:55:45] [Server thread/INFO]: Tris23 lost connection: Disconnected
-[21:55:45] [Server thread/INFO]: Tris23 left the game
-[21:55:56] [Server thread/INFO]: Stopping server
-[21:55:56] [Server thread/INFO]: Saving players
-[21:55:56] [Server thread/INFO]: Saving worlds
-[21:55:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:55:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:55:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:55:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:55:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:55:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:55:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:04:36] [Server thread/INFO]: Tris23 lost connection: Disconnected
+[00:04:36] [Server thread/INFO]: Tris23 left the game
+[00:04:46] [Server thread/INFO]: Stopping server
+[00:04:46] [Server thread/INFO]: Saving players
+[00:04:46] [Server thread/INFO]: Saving worlds
+[00:04:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:04:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:04:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
