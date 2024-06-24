@@ -130,7 +130,8 @@
       "minecraft:spider": "2024-06-24 18:43:56 +0200",
       "minecraft:zombie": "2024-06-24 17:39:49 +0200",
       "minecraft:creeper": "2024-06-24 18:43:49 +0200",
-      "minecraft:drowned": "2024-06-24 19:52:08 +0200"
+      "minecraft:drowned": "2024-06-24 19:52:08 +0200",
+      "minecraft:zombie_villager": "2024-06-24 21:50:48 +0200"
     },
     "done": false
   },
@@ -2022,6 +2023,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-06-24 20:32:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-06-24 21:38:38 +0200"
     },
     "done": true
   },
