@@ -2738,21 +2738,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-06-25 14:53:59 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2024-06-25 14:28:14 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "has_paper": "2024-06-25 14:53:59 +0200"
+      "has_honeycomb": "2024-06-25 14:28:14 +0200"
     },
     "done": true
   },
@@ -2762,9 +2756,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "has_honeycomb": "2024-06-25 14:28:14 +0200"
+      "has_paper": "2024-06-25 14:53:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-06-25 14:53:59 +0200"
     },
     "done": true
   },
