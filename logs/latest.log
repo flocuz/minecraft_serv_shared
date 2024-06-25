@@ -1,12 +1,81 @@
-[00:04:36] [Server thread/INFO]: Tris23 lost connection: Disconnected
-[00:04:36] [Server thread/INFO]: Tris23 left the game
-[00:04:46] [Server thread/INFO]: Stopping server
-[00:04:46] [Server thread/INFO]: Saving players
-[00:04:46] [Server thread/INFO]: Saving worlds
-[00:04:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:04:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:04:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:13:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:13:59] [ServerMain/INFO]: Loaded 1290 recipes
+[14:13:59] [ServerMain/INFO]: Loaded 1399 advancements
+[14:14:02] [Server thread/INFO]: Starting minecraft server version 1.21
+[14:14:02] [Server thread/INFO]: Loading properties
+[14:14:02] [Server thread/INFO]: Default game type: SURVIVAL
+[14:14:02] [Server thread/INFO]: Generating keypair
+[14:14:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:14:02] [Server thread/INFO]: Using default channel type
+[14:14:02] [Server thread/INFO]: Preparing level "world"
+[14:14:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:14:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:14:04] [Worker-Main-4/INFO]: Preparing spawn area: 30%
+[14:14:05] [Server thread/INFO]: Time elapsed: 623 ms
+[14:14:05] [Server thread/INFO]: Done (2.494s)! For help, type "help"
+[14:15:10] [User Authenticator #1/INFO]: UUID of player Tris23 is 6aead32f-d501-4c44-a7df-759b55ab3f9e
+[14:15:11] [Server thread/INFO]: Tris23[/127.0.0.1:50672] logged in with entity id 95 at (43.94462905682038, 130.0, -3.926097051576772)
+[14:15:11] [Server thread/INFO]: Tris23 joined the game
+[14:16:20] [User Authenticator #2/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[14:16:22] [Server thread/INFO]: Evandre[/25.40.172.12:50813] logged in with entity id 359 at (41.37298424510397, 130.0, -7.84909026696761)
+[14:16:22] [Server thread/INFO]: Evandre joined the game
+[14:17:48] [Server thread/INFO]: Evandre has made the advancement [A Seedy Place]
+[14:27:15] [Server thread/INFO]: Evandre has made the advancement [Sneak 100]
+[14:36:59] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[14:38:55] [Server thread/INFO]: Evandre has made the advancement [Enchanter]
+[14:41:34] [Server thread/INFO]: Evandre has made the advancement [Cover Me with Diamonds]
+[14:45:00] [Server thread/INFO]: Evandre fell from a high place
+[14:51:07] [Server thread/INFO]: Evandre lost connection: Disconnected
+[14:51:07] [Server thread/INFO]: Evandre left the game
+[14:51:28] [User Authenticator #3/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[14:51:30] [Server thread/INFO]: Evandre[/25.40.172.12:51620] logged in with entity id 7058 at (26.27232906730041, 132.0, 6.113928196082336)
+[14:51:30] [Server thread/INFO]: Evandre joined the game
+[14:51:52] [Server thread/INFO]: Evandre lost connection: Disconnected
+[14:51:52] [Server thread/INFO]: Evandre left the game
+[14:52:27] [User Authenticator #4/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[14:52:28] [Server thread/INFO]: Evandre[/25.40.172.12:51639] logged in with entity id 7326 at (27.409280639291598, 132.0, 8.444121116973783)
+[14:52:28] [Server thread/INFO]: Evandre joined the game
+[15:02:23] [Server thread/INFO]: Evandre lost connection: Disconnected
+[15:02:23] [Server thread/INFO]: Evandre left the game
+[15:02:43] [User Authenticator #5/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[15:02:44] [Server thread/INFO]: Evandre[/25.40.172.12:51664] logged in with entity id 9761 at (16.52629988855519, 133.0, -18.013344115938594)
+[15:02:44] [Server thread/INFO]: Evandre joined the game
+[15:03:34] [Server thread/INFO]: Evandre lost connection: Disconnected
+[15:03:34] [Server thread/INFO]: Evandre left the game
+[15:04:00] [User Authenticator #6/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[15:04:01] [Server thread/INFO]: Evandre[/25.40.172.12:51671] logged in with entity id 10019 at (38.770847804698334, 130.0, -4.704195471399078)
+[15:04:01] [Server thread/INFO]: Evandre joined the game
+[15:16:11] [Server thread/INFO]: Evandre was slain by Enderman
+[15:18:15] [Server thread/WARN]: Player Evandre just tried to change non-editable sign
+[15:18:40] [Server thread/WARN]: Player Evandre just tried to change non-editable sign
+[15:18:42] [Server thread/WARN]: Player Evandre just tried to change non-editable sign
+[15:18:51] [Server thread/WARN]: Player Evandre just tried to change non-editable sign
+[15:18:54] [Server thread/WARN]: Player Evandre just tried to change non-editable sign
+[15:38:50] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[15:38:57] [Server thread/WARN]: Tris23 moved too quickly! -51.55326142275523,138.5,-4.084421003221871
+[15:40:09] [Server thread/INFO]: Evandre lost connection: Disconnected
+[15:40:09] [Server thread/INFO]: Evandre left the game
+[15:40:29] [User Authenticator #7/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[15:40:30] [Server thread/INFO]: Evandre[/25.40.172.12:51742] logged in with entity id 18950 at (45.00608549855347, 131.0, -13.710210203037555)
+[15:40:30] [Server thread/INFO]: Evandre joined the game
+[15:42:13] [Server thread/WARN]: Player Evandre just tried to change non-editable sign
+[15:42:20] [Server thread/WARN]: Player Evandre just tried to change non-editable sign
+[15:43:00] [Server thread/INFO]: <Tris23> toute facon je le baise
+[15:43:06] [Server thread/INFO]: <Evandre> SALAUPPAAAA
+[15:48:31] [Server thread/WARN]: Player Evandre just tried to change non-editable sign
+[15:48:35] [Server thread/WARN]: Player Evandre just tried to change non-editable sign
+[15:50:04] [Server thread/INFO]: Evandre lost connection: Disconnected
+[15:50:04] [Server thread/INFO]: Evandre left the game
+[15:50:13] [Server thread/INFO]: Villager cmk['Villager'/18848, l='ServerLevel[world]', x=269.58, y=138.00, z=15.48] died, message: 'Villager froze to death'
+[15:50:43] [Server thread/INFO]: Tris23 lost connection: Disconnected
+[15:50:43] [Server thread/INFO]: Tris23 left the game
+[15:50:49] [Server thread/INFO]: Stopping server
+[15:50:49] [Server thread/INFO]: Saving players
+[15:50:49] [Server thread/INFO]: Saving worlds
+[15:50:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:50:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:50:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:50:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:50:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:50:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:50:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
