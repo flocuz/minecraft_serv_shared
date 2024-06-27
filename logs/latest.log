@@ -1,32 +1,31 @@
-[21:31:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:31:26] [ServerMain/INFO]: Loaded 1290 recipes
-[21:31:26] [ServerMain/INFO]: Loaded 1399 advancements
-[21:31:28] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:31:28] [Server thread/INFO]: Loading properties
-[21:31:28] [Server thread/INFO]: Default game type: SURVIVAL
-[21:31:28] [Server thread/INFO]: Generating keypair
-[21:31:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:31:29] [Server thread/INFO]: Using default channel type
-[21:31:29] [Server thread/INFO]: Preparing level "world"
-[21:31:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:31:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:31:31] [Worker-Main-2/INFO]: Preparing spawn area: 16%
-[21:31:31] [Server thread/INFO]: Time elapsed: 582 ms
-[21:31:31] [Server thread/INFO]: Done (2.752s)! For help, type "help"
-[21:32:37] [User Authenticator #1/INFO]: UUID of player Tris23 is 6aead32f-d501-4c44-a7df-759b55ab3f9e
-[21:32:39] [Server thread/INFO]: Tris23[/127.0.0.1:59250] logged in with entity id 62 at (217.4185438750613, 8.0, 164.14891035677223)
-[21:32:39] [Server thread/INFO]: Tris23 joined the game
-[21:32:52] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[21:35:01] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[21:36:14] [Server thread/INFO]: Tris23 lost connection: Disconnected
-[21:36:14] [Server thread/INFO]: Tris23 left the game
-[21:36:19] [Server thread/INFO]: Stopping server
-[21:36:19] [Server thread/INFO]: Saving players
-[21:36:19] [Server thread/INFO]: Saving worlds
-[21:36:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:36:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:36:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:36:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:36:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:36:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:36:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:54:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:54:48] [ServerMain/INFO]: Loaded 1290 recipes
+[15:54:48] [ServerMain/INFO]: Loaded 1399 advancements
+[15:54:52] [Server thread/INFO]: Starting minecraft server version 1.21
+[15:54:52] [Server thread/INFO]: Loading properties
+[15:54:52] [Server thread/INFO]: Default game type: SURVIVAL
+[15:54:52] [Server thread/INFO]: Generating keypair
+[15:54:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:54:52] [Server thread/INFO]: Using default channel type
+[15:54:52] [Server thread/INFO]: Preparing level "world"
+[15:54:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:54:54] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:54] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[15:54:55] [Server thread/INFO]: Time elapsed: 652 ms
+[15:54:55] [Server thread/INFO]: Done (2.642s)! For help, type "help"
+[15:56:13] [User Authenticator #1/INFO]: UUID of player Tris23 is 6aead32f-d501-4c44-a7df-759b55ab3f9e
+[15:56:14] [Server thread/INFO]: Tris23[/127.0.0.1:53653] logged in with entity id 88 at (43.871401764829976, 130.0, -10.40072297858109)
+[15:56:14] [Server thread/INFO]: Tris23 joined the game
+[15:56:46] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
+[16:00:30] [Server thread/INFO]: Tris23 lost connection: Disconnected
+[16:00:30] [Server thread/INFO]: Tris23 left the game
+[16:00:40] [Server thread/INFO]: Stopping server
+[16:00:40] [Server thread/INFO]: Saving players
+[16:00:40] [Server thread/INFO]: Saving worlds
+[16:00:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:00:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:00:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:00:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:00:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:00:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:00:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
