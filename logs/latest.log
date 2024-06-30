@@ -1,139 +1,69 @@
-[20:24:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:24:58] [ServerMain/INFO]: Loaded 1290 recipes
-[20:24:59] [ServerMain/INFO]: Loaded 1399 advancements
-[20:25:00] [Server thread/INFO]: Starting minecraft server version 1.21
-[20:25:00] [Server thread/INFO]: Loading properties
-[20:25:00] [Server thread/INFO]: Default game type: SURVIVAL
-[20:25:00] [Server thread/INFO]: Generating keypair
-[20:25:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:25:01] [Server thread/INFO]: Using default channel type
-[20:25:01] [Server thread/INFO]: Preparing level "world"
-[20:25:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:25:03] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:25:03] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:25:03] [Server thread/INFO]: Time elapsed: 717 ms
-[20:25:03] [Server thread/INFO]: Done (2.671s)! For help, type "help"
-[20:27:08] [User Authenticator #1/INFO]: UUID of player Tris23 is 6aead32f-d501-4c44-a7df-759b55ab3f9e
-[20:27:09] [Server thread/INFO]: Tris23[/127.0.0.1:50032] logged in with entity id 176 at (28.068780422321087, 132.0, 4.733101152926848)
-[20:27:09] [Server thread/INFO]: Tris23 joined the game
-[20:39:51] [User Authenticator #2/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[20:39:53] [Server thread/INFO]: Evandre[/25.40.172.12:59213] logged in with entity id 2500 at (44.28499074559322, 130.0, -9.808706519327433)
-[20:39:53] [Server thread/INFO]: Evandre joined the game
-[20:42:26] [Server thread/INFO]: Evandre was slain by Tris23
-[20:44:49] [Server thread/INFO]: [Tris23: Set the weather to clear]
-[20:48:13] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[20:48:39] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[20:51:08] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[20:51:27] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[20:52:00] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[20:52:08] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[20:52:27] [Server thread/INFO]: Evandre has made the advancement [Minecraft: Trial(s) Edition]
-[20:52:53] [Server thread/INFO]: Tris23 was shot by Stray
-[20:52:57] [Server thread/WARN]: Tris23 moved too quickly! -219.51090098033296,130.5,278.8505034770249
-[20:53:06] [Server thread/INFO]: Evandre was shot by Stray
-[20:55:11] [Server thread/INFO]: Evandre lost connection: Disconnected
-[20:55:11] [Server thread/INFO]: Evandre left the game
-[20:55:23] [User Authenticator #3/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[20:55:24] [Server thread/INFO]: Evandre[/25.40.172.12:59259] logged in with entity id 5562 at (47.08194831758263, 131.0, -13.638912196340865)
-[20:55:24] [Server thread/INFO]: Evandre joined the game
-[21:02:45] [Server thread/INFO]: Tris23 has made the advancement [Under Lock and Key]
-[21:02:50] [Server thread/INFO]: Evandre has made the advancement [Under Lock and Key]
-[21:05:15] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[21:05:33] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[21:06:57] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
-[21:37:12] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[21:39:28] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[21:41:45] [Server thread/INFO]: Evandre was slain by Husk
-[21:41:57] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
-[21:42:37] [Server thread/INFO]: Tris23 was doomed to fall by Husk
-[21:42:41] [Server thread/WARN]: Tris23 moved too quickly! -213.39314619567034,159.5625,302.19999998807907
-[21:42:44] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
-[21:42:44] [Server thread/WARN]: Tris23 moved too quickly! 219.56687050004308,-154.5625,-300.6034821067915
-[21:42:44] [Server thread/WARN]: Tris23 moved too quickly! 219.56687050004308,-154.5625,-300.6034821067915
-[21:42:44] [Server thread/WARN]: Tris23 moved too quickly! 219.56687050004308,-154.5625,-300.6034821067915
-[21:42:44] [Server thread/WARN]: Tris23 moved too quickly! 219.56687050004308,-154.5625,-300.6034821067915
-[21:45:44] [Server thread/INFO]: Evandre lost connection: Timed out
-[21:45:44] [Server thread/INFO]: Evandre left the game
-[21:46:18] [User Authenticator #4/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[21:46:19] [Server thread/INFO]: Evandre[/25.40.172.12:59328] logged in with entity id 14919 at (275.69999998807907, -29.0, -325.48426609654376)
-[21:46:19] [Server thread/INFO]: Evandre joined the game
-[21:47:05] [Server thread/INFO]: Evandre was slain by Husk
-[21:47:13] [Server thread/INFO]: Tris23 was slain by Husk
-[21:47:37] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
-[21:47:48] [Server thread/WARN]: Tris23 moved too quickly! -212.80000001192093,159.5625,313.19999998807907
-[21:50:43] [Server thread/INFO]: Evandre has made the advancement [Take Aim]
-[21:52:04] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
-[21:52:04] [Server thread/WARN]: Tris23 moved too quickly! 207.93869657602113,-159.0,-309.89131155258906
-[21:52:04] [Server thread/WARN]: Tris23 moved too quickly! 207.93869657602113,-159.0,-309.89131155258906
-[21:55:38] [Server thread/INFO]: Tris23 has reached the goal [Revaulting]
-[21:56:18] [Server thread/INFO]: Evandre has reached the goal [Revaulting]
-[22:01:50] [Server thread/INFO]: Tris23 was slain by Husk
-[22:01:52] [Server thread/WARN]: Tris23 moved too quickly! -227.80000001192093,162.5625,272.21091663893253
-[22:01:52] [Server thread/WARN]: Tris23 moved too quickly! -227.80000001192093,162.5625,272.21091663893253
-[22:01:54] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
-[22:01:54] [Server thread/WARN]: Tris23 moved too quickly! 225.3999290195651,-164.0672991229941,-279.97459488493064
-[22:01:54] [Server thread/WARN]: Tris23 moved too quickly! 225.3999290195651,-164.0672991229941,-279.97459488493064
-[22:01:54] [Server thread/WARN]: Tris23 moved too quickly! 225.3999290195651,-164.0672991229941,-279.97459488493064
-[22:01:54] [Server thread/WARN]: Tris23 moved too quickly! 225.3999290195651,-164.0672991229941,-279.97459488493064
-[22:02:06] [Server thread/INFO]: Tris23 was slain by Husk
-[22:02:08] [Server thread/WARN]: Tris23 moved too quickly! -223.87926774405383,164.5625,273.58953846461645
-[22:02:10] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
-[22:02:10] [Server thread/WARN]: Tris23 moved too quickly! 230.07193524044305,-164.5625,-284.7092436713342
-[22:02:10] [Server thread/WARN]: Tris23 moved too quickly! 230.07193524044305,-164.5625,-284.7092436713342
-[22:02:10] [Server thread/WARN]: Tris23 moved too quickly! 230.07193524044305,-164.5625,-284.7092436713342
-[22:02:10] [Server thread/WARN]: Tris23 moved too quickly! 230.07193524044305,-164.5625,-284.7092436713342
-[22:06:12] [Server thread/INFO]: Tris23 was slain by Slime
-[22:06:14] [Server thread/WARN]: Tris23 moved too quickly! -217.01848558090683,140.5625,279.0184855809068
-[22:06:16] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
-[22:06:16] [Server thread/WARN]: Tris23 moved too quickly! 218.70527774172183,-140.5625,-276.77167088688407
-[22:07:00] [Server thread/INFO]: Evandre was shot by Stray
-[22:07:11] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
-[22:11:29] [Server thread/INFO]: Tris23 was slain by Husk
-[22:11:31] [Server thread/WARN]: Tris23 moved too quickly! -217.76824013191992,169.5625,215.18496725827887
-[22:11:31] [Server thread/WARN]: Tris23 moved too quickly! -217.76824013191992,169.5625,215.18496725827887
-[22:11:31] [Server thread/WARN]: Tris23 moved too quickly! -217.76824013191992,169.5625,215.18496725827887
-[22:11:37] [Server thread/INFO]: Evandre was shot by Stray
-[22:14:29] [Server thread/INFO]: Evandre lost connection: Disconnected
-[22:14:29] [Server thread/INFO]: Evandre left the game
-[22:14:53] [User Authenticator #5/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[22:14:54] [Server thread/INFO]: Evandre[/25.40.172.12:59376] logged in with entity id 21373 at (35.30000001192093, 130.0, 4.511664716168079)
-[22:14:54] [Server thread/INFO]: Evandre joined the game
-[22:16:24] [Server thread/INFO]: Evandre lost connection: Disconnected
-[22:16:24] [Server thread/INFO]: Evandre left the game
-[22:16:35] [User Authenticator #6/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[22:16:37] [Server thread/INFO]: Evandre[/25.40.172.12:59383] logged in with entity id 21573 at (38.60947286820175, 130.0, -5.358917264118922)
-[22:16:37] [Server thread/INFO]: Evandre joined the game
-[22:19:06] [Server thread/INFO]: Evandre lost connection: Disconnected
-[22:19:06] [Server thread/INFO]: Evandre left the game
-[22:19:22] [User Authenticator #7/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[22:19:23] [Server thread/INFO]: Evandre[/25.40.172.12:59398] logged in with entity id 22126 at (35.30000001192093, 130.0, 4.297794477747654)
-[22:19:23] [Server thread/INFO]: Evandre joined the game
-[22:20:56] [Server thread/INFO]: Evandre lost connection: Disconnected
-[22:20:56] [Server thread/INFO]: Evandre left the game
-[22:24:01] [User Authenticator #8/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[22:24:02] [Server thread/INFO]: Evandre[/25.40.172.12:59575] logged in with entity id 23296 at (29.86129793176168, 136.0, -25.87796670328319)
-[22:24:02] [Server thread/INFO]: Evandre joined the game
-[22:32:53] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
-[22:35:37] [Server thread/INFO]: Evandre was slain by Enderman
-[22:35:47] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
-[22:41:57] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
-[22:52:18] [Server thread/INFO]: Tris23 was slain by Zombie
-[22:52:20] [Server thread/WARN]: Tris23 moved too quickly! -33.895268835484714,146.5625,-450.19999998807907
-[22:52:20] [Server thread/WARN]: Tris23 moved too quickly! -33.895268835484714,146.5625,-450.19999998807907
-[22:52:20] [Server thread/WARN]: Tris23 moved too quickly! -33.895268835484714,146.5625,-450.19999998807907
-[22:52:20] [Server thread/WARN]: Tris23 moved too quickly! -33.895268835484714,146.5625,-450.19999998807907
-[22:52:20] [Server thread/WARN]: Tris23 moved too quickly! -33.895268835484714,146.5625,-450.19999998807907
-[23:05:43] [Server thread/INFO]: Evandre lost connection: Disconnected
-[23:05:43] [Server thread/INFO]: Evandre left the game
-[23:05:46] [Server thread/INFO]: Tris23 lost connection: Disconnected
-[23:05:46] [Server thread/INFO]: Tris23 left the game
-[23:05:57] [Server thread/INFO]: Stopping server
-[23:05:57] [Server thread/INFO]: Saving players
-[23:05:57] [Server thread/INFO]: Saving worlds
-[23:05:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:05:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:05:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:05:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:05:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:05:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:05:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:13:48] [Server thread/INFO]: Villager cmk['Villager'/10436, l='ServerLevel[world]', x=378.56, y=79.00, z=-159.38] died, message: 'Villager burned to death'
+[00:40:42] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
+[00:46:50] [Server thread/WARN]: Oak Boat (vehicle of Evandre) moved wrongly! 0.5417050771222875
+[00:46:50] [Server thread/WARN]: Oak Boat (vehicle of Evandre) moved wrongly! 0.9822402956579026
+[00:46:50] [Server thread/WARN]: Oak Boat (vehicle of Evandre) moved wrongly! 1.3257628665855918
+[00:46:50] [Server thread/WARN]: Oak Boat (vehicle of Evandre) moved wrongly! 1.7125372869704734
+[00:46:50] [Server thread/WARN]: Oak Boat (vehicle of Evandre) moved wrongly! 2.060487220920322
+[00:46:50] [Server thread/WARN]: Oak Boat (vehicle of Evandre) moved wrongly! 2.413426681072224
+[00:48:28] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[00:52:33] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
+[00:54:04] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[00:55:36] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[00:55:36] [Server thread/WARN]: Tris23 moved too quickly! 207.80685637095308,-137.0,-273.9259771015026
+[00:55:36] [Server thread/WARN]: Tris23 moved too quickly! 207.80685637095308,-137.0,-273.9259771015026
+[00:56:13] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
+[01:03:19] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
+[01:03:25] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[01:12:03] [Server thread/INFO]: Tris23 has made the advancement [Voluntary Exile]
+[01:24:36] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[01:26:59] [Server thread/INFO]: Evandre was slain by Enderman
+[01:27:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=503, y=86, z=-139} jd{x=503, y=86, z=-138}
+[01:27:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=503, y=86, z=-139} jd{x=503, y=86, z=-138}
+[01:28:03] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[01:28:14] [Server thread/INFO]: Tris23 was slain by Evandre
+[01:28:15] [Server thread/WARN]: Tris23 moved too quickly! -481.871881126778,47.5625,133.66884402978818
+[01:28:40] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[01:28:40] [Server thread/WARN]: Tris23 moved too quickly! 463.71251441974204,-42.0,-124.7154168972476
+[01:31:07] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
+[01:31:47] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[01:32:19] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[01:32:33] [Server thread/INFO]: [Tris23: Set the time to 1000]
+[01:33:36] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[01:35:48] [Server thread/INFO]: Tris23 was slain by Evandre
+[01:36:02] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[01:36:02] [Server thread/WARN]: Tris23 moved too quickly! 482.6654608947091,-45.0,-141.9129396622447
+[01:36:02] [Server thread/WARN]: Tris23 moved too quickly! 482.6654608947091,-45.0,-141.9129396622447
+[01:36:02] [Server thread/WARN]: Tris23 moved too quickly! 482.6654608947091,-45.0,-141.9129396622447
+[01:36:37] [Server thread/INFO]: Tris23 has made the advancement [What a Deal!]
+[01:37:02] [Server thread/INFO]: Tris23 was slain by Evandre
+[01:37:03] [Server thread/WARN]: Tris23 moved too quickly! -479.80000001192093,49.625,123.57343153167776
+[01:37:03] [Server thread/WARN]: Tris23 moved too quickly! -479.80000001192093,49.625,123.57343153167776
+[01:37:03] [Server thread/WARN]: Tris23 moved too quickly! -479.80000001192093,49.625,123.57343153167776
+[01:37:03] [Server thread/WARN]: Tris23 moved too quickly! -479.80000001192093,49.625,123.57343153167776
+[01:37:10] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[01:37:10] [Server thread/WARN]: Tris23 moved too quickly! 484.1259204960059,-44.82324072493576,-139.741064087503
+[01:41:33] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
+[01:41:49] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[01:45:12] [Server thread/INFO]: Evandre has made the advancement [What a Deal!]
+[01:49:45] [Server thread/INFO]: Tris23 was slain by Evandre
+[01:49:46] [Server thread/WARN]: Tris23 moved too quickly! -514.8000000119209,75.4576768113233,123.19999998807907
+[01:49:46] [Server thread/WARN]: Tris23 moved too quickly! -514.8000000119209,75.4576768113233,123.19999998807907
+[01:49:46] [Server thread/WARN]: Tris23 moved too quickly! -514.8000000119209,75.4576768113233,123.19999998807907
+[01:50:02] [Server thread/INFO]: Evandre drowned
+[02:03:48] [Server thread/INFO]: Evandre was slain by Tris23
+[02:03:54] [Server thread/INFO]: Tris23 was slain by Evandre
+[02:04:13] [Server thread/INFO]: Evandre lost connection: Disconnected
+[02:04:13] [Server thread/INFO]: Evandre left the game
+[02:04:16] [Server thread/INFO]: Tris23 lost connection: Disconnected
+[02:04:16] [Server thread/INFO]: Tris23 left the game
+[02:04:27] [Server thread/INFO]: Stopping server
+[02:04:27] [Server thread/INFO]: Saving players
+[02:04:27] [Server thread/INFO]: Saving worlds
+[02:04:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:04:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:04:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:04:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:04:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:04:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:04:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

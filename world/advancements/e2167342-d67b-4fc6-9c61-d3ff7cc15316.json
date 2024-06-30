@@ -19,6 +19,7 @@
       "minecraft:birch_forest": "2024-06-24 19:29:54 +0200",
       "minecraft:bamboo_jungle": "2024-06-24 22:54:08 +0200",
       "minecraft:warm_ocean": "2024-06-24 23:02:36 +0200",
+      "minecraft:deep_lukewarm_ocean": "2024-06-30 00:47:18 +0200",
       "minecraft:flower_forest": "2024-06-24 18:09:55 +0200",
       "minecraft:beach": "2024-06-24 19:45:08 +0200",
       "minecraft:dark_forest": "2024-06-24 19:42:30 +0200",
@@ -465,6 +466,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-06-30 01:12:10 +0200",
       "minecraft:skeleton": "2024-06-24 18:18:52 +0200",
       "minecraft:husk": "2024-06-24 23:05:19 +0200",
       "minecraft:cave_spider": "2024-06-24 22:17:08 +0200",
@@ -606,15 +608,16 @@
       "cooked_porkchop": "2024-06-24 18:11:04 +0200",
       "chicken": "2024-06-24 19:11:54 +0200",
       "bread": "2024-06-24 20:29:10 +0200",
-      "cooked_rabbit": "2024-06-24 19:17:15 +0200",
-      "cooked_chicken": "2024-06-24 18:33:44 +0200",
       "honey_bottle": "2024-06-29 21:34:36 +0200",
       "rotten_flesh": "2024-06-24 19:17:43 +0200",
-      "enchanted_golden_apple": "2024-06-29 22:02:59 +0200",
       "cooked_mutton": "2024-06-24 18:09:00 +0200",
       "cooked_beef": "2024-06-24 19:22:56 +0200",
       "baked_potato": "2024-06-29 21:39:01 +0200",
-      "melon_slice": "2024-06-24 19:44:52 +0200"
+      "beef": "2024-06-30 00:50:57 +0200",
+      "melon_slice": "2024-06-24 19:44:52 +0200",
+      "cooked_rabbit": "2024-06-24 19:17:15 +0200",
+      "cooked_chicken": "2024-06-24 18:33:44 +0200",
+      "enchanted_golden_apple": "2024-06-29 22:02:59 +0200"
     },
     "done": false
   },
@@ -2835,6 +2838,78 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-06-29 22:06:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-06-30 01:26:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-06-30 01:45:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-06-30 01:50:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-06-30 01:45:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-06-30 00:00:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-06-30 01:50:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-06-30 01:45:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-06-30 01:45:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-06-30 01:50:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-06-30 01:26:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-06-30 01:45:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-06-30 01:26:19 +0200"
     },
     "done": true
   },
