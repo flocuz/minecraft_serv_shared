@@ -11,6 +11,7 @@
       "minecraft:snowy_slopes": "2024-06-20 18:30:34 +0200",
       "minecraft:forest": "2024-06-24 19:20:42 +0200",
       "minecraft:taiga": "2024-06-24 19:32:58 +0200",
+      "minecraft:lush_caves": "2024-07-07 20:49:39 +0200",
       "minecraft:deep_cold_ocean": "2024-07-01 21:35:16 +0200",
       "minecraft:frozen_ocean": "2024-06-24 19:47:08 +0200",
       "minecraft:eroded_badlands": "2024-07-02 01:42:41 +0200",
@@ -4898,6 +4899,42 @@
   "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
       "has_the_recipe": "2024-07-04 01:29:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-07-07 21:11:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-07-07 21:12:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-07-07 21:11:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-07-07 21:11:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-07-07 21:12:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-07-07 21:12:48 +0200"
     },
     "done": true
   },
