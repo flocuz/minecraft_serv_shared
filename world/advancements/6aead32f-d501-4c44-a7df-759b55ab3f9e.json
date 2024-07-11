@@ -9,8 +9,11 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-06-24 19:41:53 +0200",
       "minecraft:snowy_slopes": "2024-06-20 18:30:34 +0200",
+      "minecraft:old_growth_pine_taiga": "2024-07-11 21:39:42 +0200",
+      "minecraft:mushroom_fields": "2024-07-11 22:21:14 +0200",
       "minecraft:forest": "2024-06-24 19:20:42 +0200",
       "minecraft:taiga": "2024-06-24 19:32:58 +0200",
+      "minecraft:deep_ocean": "2024-07-11 21:55:14 +0200",
       "minecraft:lush_caves": "2024-07-07 20:49:39 +0200",
       "minecraft:deep_cold_ocean": "2024-07-01 21:35:16 +0200",
       "minecraft:frozen_ocean": "2024-06-24 19:47:08 +0200",
@@ -19,6 +22,7 @@
       "minecraft:frozen_river": "2024-07-01 21:06:53 +0200",
       "minecraft:deep_frozen_ocean": "2024-06-24 19:49:00 +0200",
       "minecraft:jungle": "2024-06-24 22:08:38 +0200",
+      "minecraft:ocean": "2024-07-11 21:52:15 +0200",
       "minecraft:cherry_grove": "2024-06-20 18:19:44 +0200",
       "minecraft:sunflower_plains": "2024-06-24 18:06:48 +0200",
       "minecraft:birch_forest": "2024-06-24 22:08:22 +0200",
@@ -152,11 +156,13 @@
       "minecraft:pillager": "2024-06-30 01:12:03 +0200",
       "minecraft:blaze": "2024-07-02 01:11:42 +0200",
       "minecraft:skeleton": "2024-06-24 18:44:18 +0200",
+      "minecraft:phantom": "2024-07-11 22:34:36 +0200",
       "minecraft:zombified_piglin": "2024-07-02 01:14:45 +0200",
       "minecraft:witch": "2024-07-01 23:07:38 +0200",
       "minecraft:wither_skeleton": "2024-07-02 01:11:32 +0200",
       "minecraft:husk": "2024-06-24 23:06:50 +0200",
       "minecraft:cave_spider": "2024-06-24 22:10:35 +0200",
+      "minecraft:piglin": "2024-07-11 16:28:17 +0200",
       "minecraft:breeze": "2024-06-29 21:20:58 +0200",
       "minecraft:enderman": "2024-06-24 19:06:35 +0200",
       "minecraft:silverfish": "2024-06-29 21:30:37 +0200",
@@ -4938,6 +4944,108 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-07-11 00:30:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-07-11 00:30:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-07-11 00:33:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-07-11 00:33:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 01:21:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 01:21:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-07-11 01:21:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-07-11 01:21:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 01:21:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-11 01:30:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-11 01:30:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-11 01:30:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-11 01:30:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-11 01:30:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-11 01:30:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-07-11 02:37:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-07-11 02:41:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2024-07-11 02:45:48 +0200"
@@ -4950,21 +5058,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-07-11 01:21:23 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2024-07-11 02:45:48 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-07-11 01:21:23 +0200"
     },
     "done": true
   },
@@ -4986,48 +5082,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
-    "criteria": {
-      "has_log": "2024-07-11 00:33:32 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2024-07-11 02:37:38 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-07-11 01:30:04 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2024-07-11 01:21:23 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-07-11 01:30:04 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
-    "criteria": {
-      "has_log": "2024-07-11 00:30:07 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-07-11 01:30:04 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-07-11 02:45:48 +0200"
@@ -5040,27 +5094,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_red_dye": "2024-07-11 01:21:23 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-07-11 02:45:48 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2024-07-11 02:41:57 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-07-11 01:21:23 +0200"
     },
     "done": true
   },
@@ -5076,33 +5112,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crimson_hanging_sign": {
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
-      "has_stripped_logs": "2024-07-11 00:30:07 +0200"
+      "has_dune_armor_trim_smithing_template": "2024-07-11 23:05:30 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
-      "has_mossy_cobblestone": "2024-07-11 01:30:04 +0200"
+      "has_glass": "2024-07-11 19:31:33 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/warped_hanging_sign": {
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
     "criteria": {
-      "has_stripped_logs": "2024-07-11 00:33:32 +0200"
+      "has_needed_dye": "2024-07-11 17:07:46 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
     "criteria": {
-      "has_mossy_cobblestone": "2024-07-11 01:30:04 +0200"
+      "has_needed_dye": "2024-07-11 17:09:40 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_mossy_cobblestone": "2024-07-11 01:30:04 +0200"
+      "has_smithing_trim_template": "2024-07-11 23:05:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-07-11 17:09:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 17:09:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-07-11 21:59:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-07-11 22:24:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 17:09:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 17:09:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-07-11 22:25:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-07-11 19:39:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 17:09:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2024-07-11 19:03:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 17:07:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-07-11 17:09:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-07-11 19:03:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-07-11 22:51:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2024-07-11 17:07:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-07-11 22:24:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 17:09:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 17:07:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2024-07-11 17:09:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-07-11 22:28:19 +0200"
     },
     "done": true
   },
