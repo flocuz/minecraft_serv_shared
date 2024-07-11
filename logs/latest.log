@@ -1,35 +1,247 @@
-[20:21:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:21:26] [ServerMain/INFO]: Loaded 1290 recipes
-[20:21:26] [ServerMain/INFO]: Loaded 1399 advancements
-[20:21:29] [Server thread/INFO]: Starting minecraft server version 1.21
-[20:21:29] [Server thread/INFO]: Loading properties
-[20:21:29] [Server thread/INFO]: Default game type: SURVIVAL
-[20:21:29] [Server thread/INFO]: Generating keypair
-[20:21:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:21:29] [Server thread/INFO]: Using default channel type
-[20:21:30] [Server thread/INFO]: Preparing level "world"
-[20:21:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:21:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:21:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:21:33] [Server thread/INFO]: Time elapsed: 1129 ms
-[20:21:33] [Server thread/INFO]: Done (3.641s)! For help, type "help"
-[20:23:06] [User Authenticator #1/INFO]: UUID of player Tris23 is 6aead32f-d501-4c44-a7df-759b55ab3f9e
-[20:23:08] [Server thread/INFO]: Tris23[/127.0.0.1:59100] logged in with entity id 134 at (45.379446855116576, 130.0, -22.315231989571338)
-[20:23:08] [Server thread/INFO]: Tris23 joined the game
-[20:30:38] [Server thread/INFO]: [Tris23: Teleported Tris23 to 50.500000, -6.000000, -401.500000]
-[20:30:38] [Server thread/WARN]: Tris23 moved too quickly! 0.1988546707289629,-131.0,-387.54239009537173
-[20:30:41] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
-[20:30:46] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[20:34:35] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[20:47:00] [Server thread/INFO]: Tris23 lost connection: Disconnected
-[20:47:00] [Server thread/INFO]: Tris23 left the game
-[20:47:12] [Server thread/INFO]: Stopping server
-[20:47:12] [Server thread/INFO]: Saving players
-[20:47:12] [Server thread/INFO]: Saving worlds
-[20:47:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:47:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:47:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:47:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:47:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:47:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:47:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:24] [User Authenticator #7/INFO]: UUID of player Tolviadi is 5784ed68-2672-4e50-9a4b-048eb7b5870e
+[00:00:25] [Server thread/INFO]: Tolviadi[/25.35.90.96:51972] logged in with entity id 9795 at (39.83493450669225, 83.00133597911214, 38.45371608624018)
+[00:00:25] [Server thread/INFO]: Tolviadi joined the game
+[00:00:50] [User Authenticator #8/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[00:00:51] [Server thread/INFO]: Evandre[/25.40.172.12:53904] logged in with entity id 9866 at (40.42224220541083, 130.0, 10.162840105152544)
+[00:00:51] [Server thread/INFO]: Evandre joined the game
+[00:01:23] [Server thread/INFO]: Evandre lost connection: Disconnected
+[00:01:23] [Server thread/INFO]: Evandre left the game
+[00:01:42] [User Authenticator #9/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[00:01:43] [Server thread/INFO]: Evandre[/25.40.172.12:53923] logged in with entity id 9988 at (39.30293871411997, 130.0, 9.699999988079071)
+[00:01:43] [Server thread/INFO]: Evandre joined the game
+[00:02:04] [Server thread/INFO]: Evandre lost connection: Disconnected
+[00:02:04] [Server thread/INFO]: Evandre left the game
+[00:08:21] [User Authenticator #10/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[00:08:22] [Server thread/INFO]: Evandre[/25.40.172.12:54024] logged in with entity id 10959 at (41.24470721208183, 130.0, 9.831267845793288)
+[00:08:22] [Server thread/INFO]: Evandre joined the game
+[00:09:47] [Server thread/INFO]: Tolviadi has made the advancement [Acquire Hardware]
+[00:10:28] [Server thread/WARN]: Evandre moved wrongly!
+[00:11:52] [Server thread/INFO]: Evandre lost connection: Disconnected
+[00:11:52] [Server thread/INFO]: Evandre left the game
+[00:12:13] [User Authenticator #11/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[00:12:14] [Server thread/INFO]: Evandre[/25.40.172.12:54052] logged in with entity id 11406 at (46.20115016168496, 130.0, -27.294673385587323)
+[00:12:14] [Server thread/INFO]: Evandre joined the game
+[00:15:03] [Server thread/INFO]: Evandre lost connection: Disconnected
+[00:15:03] [Server thread/INFO]: Evandre left the game
+[00:15:23] [User Authenticator #12/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[00:15:24] [Server thread/INFO]: Evandre[/25.40.172.12:54060] logged in with entity id 11911 at (46.338173702711906, 130.0, -29.820554809228042)
+[00:15:24] [Server thread/INFO]: Evandre joined the game
+[00:16:16] [Server thread/WARN]: Tolviadi moved too quickly! -7.027893031966229,-6.921599998474122,2.319264734034711
+[00:19:47] [Server thread/INFO]: Tolviadi lost connection: Disconnected
+[00:19:47] [Server thread/INFO]: Tolviadi left the game
+[00:19:56] [User Authenticator #13/INFO]: UUID of player Tolviadi is 5784ed68-2672-4e50-9a4b-048eb7b5870e
+[00:19:57] [Server thread/INFO]: Tolviadi[/25.35.90.96:57212] logged in with entity id 12994 at (-7.45994142491245, 71.0, -4.300660303944087)
+[00:19:57] [Server thread/INFO]: Tolviadi joined the game
+[00:20:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-9, y=72, z=-1}
+[00:20:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-10, y=72, z=-1}
+[00:21:00] [Server thread/INFO]: [Evandre: Teleported Evandre to Tolviadi]
+[00:21:07] [Server thread/WARN]: Tolviadi moved too quickly! -7.366547942781743,2.249187078744683,6.474693893457234
+[00:21:21] [Server thread/INFO]: Tolviadi lost connection: Timed out
+[00:21:21] [Server thread/INFO]: Tolviadi left the game
+[00:21:32] [User Authenticator #14/INFO]: UUID of player Tolviadi is 5784ed68-2672-4e50-9a4b-048eb7b5870e
+[00:21:33] [Server thread/INFO]: Tolviadi[/25.35.90.96:57643] logged in with entity id 13463 at (-31.687307138450286, 68.16610926093821, 3.7391579941334028)
+[00:21:33] [Server thread/INFO]: Tolviadi joined the game
+[00:23:19] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[00:36:28] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[00:36:51] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
+[00:37:28] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[00:37:35] [Server thread/INFO]: Tolviadi lost connection: Timed out
+[00:37:35] [Server thread/INFO]: Tolviadi left the game
+[00:37:39] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[00:38:14] [User Authenticator #15/INFO]: UUID of player Tolviadi is 5784ed68-2672-4e50-9a4b-048eb7b5870e
+[00:38:14] [Server thread/INFO]: Tolviadi[/25.35.90.96:62132] logged in with entity id 16754 at (24.684871347517984, 60.0, -11.594623404293793)
+[00:38:14] [Server thread/INFO]: Tolviadi joined the game
+[00:39:19] [Server thread/INFO]: [Evandre: Teleported Evandre to Tolviadi]
+[00:43:49] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[00:45:21] [Server thread/INFO]: [Evandre: Teleported Evandre to Tolviadi]
+[00:45:36] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[00:48:55] [Server thread/INFO]: Tolviadi has made the advancement [Enchanter]
+[00:53:01] [Server thread/INFO]: Tolviadi lost connection: Timed out
+[00:53:01] [Server thread/INFO]: Tolviadi left the game
+[00:53:09] [User Authenticator #16/INFO]: UUID of player Tolviadi is 5784ed68-2672-4e50-9a4b-048eb7b5870e
+[00:53:10] [Server thread/INFO]: Tolviadi[/25.35.90.96:50047] logged in with entity id 18990 at (52.54666910382339, 120.0, 25.662578752689924)
+[00:53:10] [Server thread/INFO]: Tolviadi joined the game
+[00:55:56] [Server thread/INFO]: Evandre lost connection: Disconnected
+[00:55:56] [Server thread/INFO]: Evandre left the game
+[00:56:15] [User Authenticator #17/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[00:56:16] [Server thread/INFO]: Evandre[/25.40.172.12:54111] logged in with entity id 19615 at (38.3612038835606, 130.0, 5.374955511034055)
+[00:56:16] [Server thread/INFO]: Evandre joined the game
+[00:56:44] [Server thread/INFO]: Evandre lost connection: Disconnected
+[00:56:44] [Server thread/INFO]: Evandre left the game
+[00:57:03] [User Authenticator #18/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[00:57:04] [Server thread/INFO]: Evandre[/25.40.172.12:54115] logged in with entity id 19826 at (42.61081510336392, 130.0, 15.038777415814629)
+[00:57:04] [Server thread/INFO]: Evandre joined the game
+[00:57:30] [Server thread/INFO]: Evandre lost connection: Disconnected
+[00:57:30] [Server thread/INFO]: Evandre left the game
+[00:57:55] [User Authenticator #19/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[00:57:56] [Server thread/INFO]: Evandre[/25.40.172.12:54119] logged in with entity id 20008 at (41.153924019466515, 130.0, 19.12554184968557)
+[00:57:56] [Server thread/INFO]: Evandre joined the game
+[00:57:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=42, y=131, z=22} jd{x=42, y=130, z=22}
+[01:01:02] [Server thread/INFO]: Evandre lost connection: Disconnected
+[01:01:02] [Server thread/INFO]: Evandre left the game
+[01:01:20] [User Authenticator #20/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[01:01:21] [Server thread/INFO]: Evandre[/25.40.172.12:54127] logged in with entity id 20657 at (50.65759587357381, 118.0, 27.718930400700586)
+[01:01:21] [Server thread/INFO]: Evandre joined the game
+[01:02:34] [Server thread/INFO]: [Evandre: Teleported Evandre to Tolviadi]
+[01:06:41] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[01:08:38] [Server thread/INFO]: [Evandre: Teleported Evandre to Tolviadi]
+[01:13:39] [Server thread/INFO]: Evandre lost connection: Disconnected
+[01:13:39] [Server thread/INFO]: Evandre left the game
+[01:13:58] [User Authenticator #21/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[01:13:59] [Server thread/INFO]: Evandre[/25.40.172.12:54142] logged in with entity id 22775 at (25.371585333103518, 135.0, -14.141890565507232)
+[01:13:59] [Server thread/INFO]: Evandre joined the game
+[01:15:00] [Server thread/WARN]: Tolviadi moved too quickly! 5.238728955407801,2.8322033533667366,8.2772335827757
+[01:15:28] [Server thread/INFO]: Evandre lost connection: Disconnected
+[01:15:28] [Server thread/INFO]: Evandre left the game
+[01:15:48] [User Authenticator #22/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[01:15:49] [Server thread/INFO]: Evandre[/25.40.172.12:54150] logged in with entity id 23055 at (42.75594523644892, 130.0, 21.36386584381813)
+[01:15:49] [Server thread/INFO]: Evandre joined the game
+[01:17:29] [Server thread/INFO]: Evandre lost connection: Disconnected
+[01:17:29] [Server thread/INFO]: Evandre left the game
+[01:17:55] [User Authenticator #23/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[01:17:56] [Server thread/INFO]: Evandre[/25.40.172.12:54155] logged in with entity id 23485 at (36.40751065619656, 130.0, 24.582413720539087)
+[01:17:56] [Server thread/INFO]: Evandre joined the game
+[01:19:03] [Server thread/INFO]: Evandre lost connection: Disconnected
+[01:19:03] [Server thread/INFO]: Evandre left the game
+[01:19:24] [User Authenticator #24/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[01:19:24] [Server thread/INFO]: Evandre[/25.40.172.12:54161] logged in with entity id 23867 at (36.68726951514225, 131.0, 30.93314456614348)
+[01:19:24] [Server thread/INFO]: Evandre joined the game
+[01:26:01] [Server thread/WARN]: Tolviadi moved too quickly! -7.612218252216987,0.3693736602695026,6.896659208921328
+[01:29:54] [Server thread/WARN]: Tolviadi moved too quickly! 0.21501023764039928,0.0,-10.09508536419304
+[01:30:27] [Server thread/WARN]: Tolviadi moved too quickly! 8.739969203752054,0.0,-4.8956526877942395
+[01:30:57] [Server thread/INFO]: Tolviadi has made the advancement [Minecraft: Trial(s) Edition]
+[01:33:26] [Server thread/INFO]: Tris23 drowned
+[01:33:29] [Server thread/WARN]: Tris23 moved too quickly! -998.5949063455325,83.5625,313.4148863066725
+[01:33:29] [Server thread/WARN]: Tris23 moved too quickly! -998.5949063455325,83.5625,313.4148863066725
+[01:33:29] [Server thread/WARN]: Tris23 moved too quickly! -998.5949063455325,83.5625,313.4148863066725
+[01:39:18] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[01:41:52] [Server thread/INFO]: Evandre lost connection: Disconnected
+[01:41:52] [Server thread/INFO]: Evandre left the game
+[01:42:11] [User Authenticator #25/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[01:42:12] [Server thread/INFO]: Evandre[/25.40.172.12:54192] logged in with entity id 34176 at (42.16667655990293, 131.4952008770059, 28.33047182411888)
+[01:42:12] [Server thread/INFO]: Evandre joined the game
+[01:43:20] [Server thread/INFO]: <Tris23> HASHTAG KEN
+[01:43:25] [Server thread/INFO]: <Evandre> SEX
+[01:53:14] [Server thread/WARN]: Tolviadi moved too quickly! 7.79862468917166,0.0,-6.633442567727963
+[01:53:15] [Server thread/INFO]: Tolviadi lost connection: Timed out
+[01:53:15] [Server thread/INFO]: Tolviadi left the game
+[01:53:24] [User Authenticator #26/INFO]: UUID of player Tolviadi is 5784ed68-2672-4e50-9a4b-048eb7b5870e
+[01:53:25] [Server thread/INFO]: Tolviadi[/25.35.90.96:50149] logged in with entity id 36225 at (45.79983378285468, 130.0, -11.452982128613657)
+[01:53:25] [Server thread/INFO]: Tolviadi joined the game
+[02:01:20] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[02:01:39] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[02:01:41] [Server thread/INFO]: Tolviadi has made the advancement [The Parrots and the Bats]
+[02:02:12] [Server thread/INFO]: Tolviadi has made the advancement [A Seedy Place]
+[02:04:03] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[02:04:10] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[02:09:25] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[02:15:12] [Server thread/INFO]: Evandre lost connection: Disconnected
+[02:15:12] [Server thread/INFO]: Evandre left the game
+[02:15:31] [User Authenticator #27/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[02:15:32] [Server thread/INFO]: Evandre[/25.40.172.12:54228] logged in with entity id 40915 at (-5.001811492365197, 110.24918707874468, 39.25338790495248)
+[02:15:32] [Server thread/INFO]: Evandre joined the game
+[02:16:23] [Server thread/INFO]: Evandre lost connection: Disconnected
+[02:16:23] [Server thread/INFO]: Evandre left the game
+[02:16:42] [User Authenticator #28/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[02:16:43] [Server thread/INFO]: Evandre[/25.40.172.12:54235] logged in with entity id 41551 at (-18.967222349064876, 119.0, -25.90617972179142)
+[02:16:43] [Server thread/INFO]: Evandre joined the game
+[02:17:30] [Server thread/INFO]: Tris23 drowned
+[02:17:31] [Server thread/WARN]: Tris23 moved too quickly! -272.2251308941693,73.5625,206.0803043155806
+[02:20:11] [Server thread/INFO]: Tolviadi lost connection: Disconnected
+[02:20:11] [Server thread/INFO]: Tolviadi left the game
+[02:25:01] [Server thread/INFO]: Evandre lost connection: Disconnected
+[02:25:01] [Server thread/INFO]: Evandre left the game
+[02:25:20] [User Authenticator #29/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[02:25:21] [Server thread/INFO]: Evandre[/25.40.172.12:54249] logged in with entity id 42842 at (41.313080723812895, 130.0, 26.963215989357025)
+[02:25:21] [Server thread/INFO]: Evandre joined the game
+[02:25:48] [Server thread/INFO]: [Tris23: Set the weather to clear]
+[02:26:10] [Server thread/INFO]: Evandre lost connection: Disconnected
+[02:26:10] [Server thread/INFO]: Evandre left the game
+[02:26:32] [User Authenticator #30/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[02:26:32] [Server thread/INFO]: Evandre[/25.40.172.12:54256] logged in with entity id 42989 at (37.80866392839518, 130.0, -5.584220697341746)
+[02:26:32] [Server thread/INFO]: Evandre joined the game
+[02:27:04] [Server thread/INFO]: Evandre lost connection: Disconnected
+[02:27:04] [Server thread/INFO]: Evandre left the game
+[02:27:23] [User Authenticator #31/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[02:27:24] [Server thread/INFO]: Evandre[/25.40.172.12:54260] logged in with entity id 43099 at (41.85639023488723, 130.73584067272827, 27.806430425809673)
+[02:27:24] [Server thread/INFO]: Evandre joined the game
+[02:29:02] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[02:29:49] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[02:30:37] [Server thread/INFO]: Evandre lost connection: Disconnected
+[02:30:37] [Server thread/INFO]: Evandre left the game
+[02:31:00] [User Authenticator #32/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[02:31:01] [Server thread/INFO]: Evandre[/25.40.172.12:54274] logged in with entity id 43594 at (38.2537752312247, 130.0, 2.7980146647938673)
+[02:31:01] [Server thread/INFO]: Evandre joined the game
+[02:32:03] [Server thread/INFO]: Evandre lost connection: Disconnected
+[02:32:03] [Server thread/INFO]: Evandre left the game
+[02:32:15] [User Authenticator #33/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[02:32:16] [Server thread/INFO]: Evandre[/25.40.172.12:54284] logged in with entity id 43750 at (44.96116105768607, 130.0, -22.733762098840963)
+[02:32:16] [Server thread/INFO]: Evandre joined the game
+[02:32:28] [Server thread/INFO]: Evandre lost connection: Disconnected
+[02:32:28] [Server thread/INFO]: Evandre left the game
+[02:32:40] [User Authenticator #34/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[02:32:41] [Server thread/INFO]: Evandre[/25.40.172.12:54291] logged in with entity id 43801 at (45.088923990218156, 130.0, -20.646339343765185)
+[02:32:41] [Server thread/INFO]: Evandre joined the game
+[02:33:00] [Server thread/INFO]: Evandre lost connection: Disconnected
+[02:33:00] [Server thread/INFO]: Evandre left the game
+[02:33:24] [User Authenticator #35/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[02:33:25] [Server thread/INFO]: Evandre[/25.40.172.12:54302] logged in with entity id 43899 at (45.088923990218156, 130.0, -20.646339343765185)
+[02:33:25] [Server thread/INFO]: Evandre joined the game
+[02:33:41] [Server thread/INFO]: Evandre lost connection: Disconnected
+[02:33:41] [Server thread/INFO]: Evandre left the game
+[02:33:56] [User Authenticator #36/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[02:33:57] [Server thread/INFO]: Evandre[/25.40.172.12:54316] logged in with entity id 43962 at (45.088923990218156, 130.0, -20.646339343765185)
+[02:33:57] [Server thread/INFO]: Evandre joined the game
+[02:34:22] [Server thread/INFO]: Evandre lost connection: Disconnected
+[02:34:22] [Server thread/INFO]: Evandre left the game
+[02:34:41] [User Authenticator #37/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[02:34:41] [Server thread/INFO]: Evandre[/25.40.172.12:54323] logged in with entity id 44082 at (46.640157942381634, 131.0, -14.694666351875851)
+[02:34:41] [Server thread/INFO]: Evandre joined the game
+[02:35:32] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[02:35:42] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[02:39:13] [Server thread/INFO]: Evandre lost connection: Disconnected
+[02:39:13] [Server thread/INFO]: Evandre left the game
+[02:39:24] [User Authenticator #38/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[02:39:25] [Server thread/INFO]: Evandre[/25.40.172.12:54334] logged in with entity id 44765 at (44.30980743036584, 132.0, 38.00836498896954)
+[02:39:25] [Server thread/INFO]: Evandre joined the game
+[02:40:15] [Server thread/INFO]: Evandre lost connection: Disconnected
+[02:40:15] [Server thread/INFO]: Evandre left the game
+[02:40:26] [User Authenticator #39/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[02:40:27] [Server thread/INFO]: Evandre[/25.40.172.12:54344] logged in with entity id 45003 at (47.08945998125774, 131.0, 42.04983102637682)
+[02:40:27] [Server thread/INFO]: Evandre joined the game
+[02:42:58] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[02:43:18] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[02:48:46] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[02:49:37] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[02:50:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=40, y=110, z=-6} jd{x=41, y=109, z=-6}
+[02:50:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=40, y=110, z=-6} jd{x=41, y=109, z=-6}
+[02:50:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=44, y=110, z=4} jd{x=43, y=110, z=3}
+[02:50:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=44, y=110, z=4} jd{x=43, y=110, z=3}
+[02:50:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=44, y=110, z=4} jd{x=43, y=110, z=3}
+[02:50:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=44, y=110, z=4} jd{x=43, y=110, z=3}
+[02:50:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=44, y=110, z=4} jd{x=43, y=110, z=3}
+[02:50:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=44, y=110, z=4} jd{x=43, y=110, z=3}
+[02:50:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=44, y=110, z=4} jd{x=43, y=110, z=3}
+[02:51:21] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[02:51:51] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[02:52:13] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[03:13:44] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[03:14:07] [Server thread/INFO]: [Evandre: Set own game mode to Creative Mode]
+[03:15:03] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[03:15:09] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[03:17:02] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[03:17:08] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[03:47:09] [Server thread/INFO]: Evandre lost connection: Disconnected
+[03:47:09] [Server thread/INFO]: Evandre left the game
+[03:47:28] [Server thread/INFO]: Tris23 lost connection: Disconnected
+[03:47:28] [Server thread/INFO]: Tris23 left the game
+[03:47:40] [Server thread/INFO]: Stopping server
+[03:47:40] [Server thread/INFO]: Saving players
+[03:47:40] [Server thread/INFO]: Saving worlds
+[03:47:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:47:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:47:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
