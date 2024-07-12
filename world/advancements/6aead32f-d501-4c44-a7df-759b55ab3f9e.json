@@ -754,7 +754,8 @@
       "minecraft:cow": "2024-06-25 15:19:55 +0200",
       "minecraft:chicken": "2024-06-24 18:11:46 +0200",
       "minecraft:wolf": "2024-07-01 21:00:04 +0200",
-      "minecraft:panda": "2024-06-24 22:59:11 +0200"
+      "minecraft:panda": "2024-06-24 22:59:11 +0200",
+      "minecraft:axolotl": "2024-07-12 15:47:41 +0200"
     },
     "done": false
   },
@@ -5112,33 +5113,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2024-07-11 23:05:30 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2024-07-11 19:31:33 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_brown_bed": {
     "criteria": {
       "has_needed_dye": "2024-07-11 17:07:46 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
     "criteria": {
-      "has_needed_dye": "2024-07-11 17:09:40 +0200"
+      "has_needed_dye": "2024-07-11 17:07:46 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/decorations/brown_candle": {
     "criteria": {
-      "has_smithing_trim_template": "2024-07-11 23:05:30 +0200"
+      "has_brown_dye": "2024-07-11 17:07:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 17:07:46 +0200"
     },
     "done": true
   },
@@ -5154,15 +5149,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+  "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
-      "has_lily_of_the_valley": "2024-07-11 21:59:51 +0200"
+      "has_needed_dye": "2024-07-11 17:09:33 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+  "minecraft:recipes/decorations/white_candle": {
     "criteria": {
-      "has_cooked_rabbit": "2024-07-11 22:24:36 +0200"
+      "has_white_dye": "2024-07-11 17:09:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 17:09:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 17:09:40 +0200"
     },
     "done": true
   },
@@ -5178,21 +5185,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone": {
+  "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
-      "has_sand": "2024-07-11 22:25:03 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2024-07-11 19:39:30 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-07-11 17:09:33 +0200"
+      "has_light_blue_dye": "2024-07-11 17:09:40 +0200"
     },
     "done": true
   },
@@ -5202,33 +5197,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_brown_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-07-11 17:07:46 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
-    "criteria": {
-      "has_white_dye": "2024-07-11 17:09:33 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-07-11 19:03:47 +0200"
     },
     "done": true
   },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
-      "axolotl_bucket": "2024-07-11 22:51:01 +0200"
+      "has_glass": "2024-07-11 19:31:33 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_candle": {
+  "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
-      "has_brown_dye": "2024-07-11 17:07:46 +0200"
+      "has_glowstone": "2024-07-11 19:39:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-07-11 21:59:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-07-11 22:24:36 +0200"
     },
     "done": true
   },
@@ -5238,27 +5233,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
+  "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
-      "has_needed_dye": "2024-07-11 17:09:33 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-07-11 17:07:46 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_candle": {
-    "criteria": {
-      "has_light_blue_dye": "2024-07-11 17:09:40 +0200"
+      "has_sand": "2024-07-11 22:25:03 +0200"
     },
     "done": true
   },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-07-11 22:28:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-07-11 22:51:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2024-07-11 23:05:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-07-11 23:05:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2024-07-12 15:43:27 +0200"
     },
     "done": true
   },
