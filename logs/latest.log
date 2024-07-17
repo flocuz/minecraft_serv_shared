@@ -1,163 +1,374 @@
-[14:57:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:57:11] [ServerMain/INFO]: Loaded 1290 recipes
-[14:57:11] [ServerMain/INFO]: Loaded 1399 advancements
-[14:57:14] [Server thread/INFO]: Starting minecraft server version 1.21
-[14:57:14] [Server thread/INFO]: Loading properties
-[14:57:14] [Server thread/INFO]: Default game type: SURVIVAL
-[14:57:14] [Server thread/INFO]: Generating keypair
-[14:57:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:57:14] [Server thread/INFO]: Using default channel type
-[14:57:15] [Server thread/INFO]: Preparing level "world"
-[14:57:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:57:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:57:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:57:18] [Server thread/INFO]: Time elapsed: 964 ms
-[14:57:18] [Server thread/INFO]: Done (3.094s)! For help, type "help"
-[14:58:39] [User Authenticator #1/INFO]: UUID of player Tris23 is 6aead32f-d501-4c44-a7df-759b55ab3f9e
-[14:58:41] [Server thread/INFO]: Tris23[/127.0.0.1:49788] logged in with entity id 138 at (36.12582213905515, 124.0, 27.600740445498722)
-[14:58:41] [Server thread/INFO]: Tris23 joined the game
-[14:58:51] [User Authenticator #2/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[14:58:53] [Server thread/INFO]: Evandre[/25.40.172.12:59534] logged in with entity id 268 at (42.51751115174526, 130.0, -11.474478819985205)
-[14:58:53] [Server thread/INFO]: Evandre joined the game
-[15:02:34] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:02:34] [Server thread/INFO]: Evandre left the game
-[15:03:02] [User Authenticator #3/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:03:03] [Server thread/INFO]: Evandre[/25.40.172.12:59547] logged in with entity id 826 at (40.07820242124067, 131.12160004615782, -3.635725272952832)
-[15:03:03] [Server thread/INFO]: Evandre joined the game
-[15:03:42] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:03:42] [Server thread/INFO]: Evandre left the game
-[15:04:33] [User Authenticator #4/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:04:34] [Server thread/INFO]: Evandre[/25.40.172.12:59570] logged in with entity id 985 at (55.580214708969116, 130.0, -6.1185293943899)
-[15:04:34] [Server thread/INFO]: Evandre joined the game
-[15:04:54] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:04:54] [Server thread/INFO]: Evandre left the game
-[15:05:42] [User Authenticator #5/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:05:43] [Server thread/INFO]: Evandre[/25.40.172.12:59586] logged in with entity id 1118 at (55.580214708969116, 130.0, -6.1185293943899)
-[15:05:43] [Server thread/INFO]: Evandre joined the game
-[15:05:55] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
-[15:05:59] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:05:59] [Server thread/INFO]: Evandre left the game
-[15:06:50] [User Authenticator #6/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:06:51] [Server thread/INFO]: Evandre[/25.40.172.12:59604] logged in with entity id 1228 at (55.580214708969116, 130.0, -6.1185293943899)
-[15:06:51] [Server thread/INFO]: Evandre joined the game
-[15:07:09] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:07:09] [Server thread/INFO]: Evandre left the game
-[15:07:24] [User Authenticator #7/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:07:25] [Server thread/INFO]: Evandre[/25.40.172.12:59615] logged in with entity id 1297 at (55.580214708969116, 130.0, -6.1185293943899)
-[15:07:25] [Server thread/INFO]: Evandre joined the game
-[15:08:08] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:08:08] [Server thread/INFO]: Evandre left the game
-[15:08:31] [User Authenticator #8/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:08:32] [Server thread/INFO]: Evandre[/25.40.172.12:59627] logged in with entity id 1399 at (55.159346007622055, 131.0, -3.896351141258779)
-[15:08:32] [Server thread/INFO]: Evandre joined the game
-[15:08:57] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:08:57] [Server thread/INFO]: Evandre left the game
-[15:09:18] [User Authenticator #9/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:09:19] [Server thread/INFO]: Evandre[/25.40.172.12:59634] logged in with entity id 1484 at (55.159346007622055, 131.0, -3.896351141258779)
-[15:09:19] [Server thread/INFO]: Evandre joined the game
-[15:11:14] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[15:11:38] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[15:12:59] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:12:59] [Server thread/INFO]: Evandre left the game
-[15:13:20] [User Authenticator #10/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:13:21] [Server thread/INFO]: Evandre[/25.40.172.12:59639] logged in with entity id 2139 at (41.58821927662295, 129.0, -3.7236149904971203)
-[15:13:21] [Server thread/INFO]: Evandre joined the game
-[15:13:40] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:13:40] [Server thread/INFO]: Evandre left the game
-[15:14:04] [User Authenticator #11/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:14:05] [Server thread/INFO]: Evandre[/25.40.172.12:59646] logged in with entity id 2452 at (41.58821927662295, 129.0, -3.7236149904971203)
-[15:14:05] [Server thread/INFO]: Evandre joined the game
-[15:15:09] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:15:09] [Server thread/INFO]: Evandre left the game
-[15:15:57] [User Authenticator #12/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:15:58] [Server thread/INFO]: Evandre[/25.40.172.12:59651] logged in with entity id 2975 at (44.68295665200583, 130.0, -20.128510673029496)
-[15:15:58] [Server thread/INFO]: Evandre joined the game
-[15:17:54] [Server thread/INFO]: [Evandre: Set the weather to clear]
-[15:22:05] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:22:05] [Server thread/INFO]: Evandre left the game
-[15:23:49] [User Authenticator #13/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:23:50] [Server thread/INFO]: Evandre[/25.40.172.12:59670] logged in with entity id 5491 at (6.159804236140847, 130.0, -12.01799620593735)
-[15:23:50] [Server thread/INFO]: Evandre joined the game
-[15:24:04] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
-[15:24:52] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:24:52] [Server thread/INFO]: Evandre left the game
-[15:26:03] [User Authenticator #14/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:26:04] [Server thread/INFO]: Evandre[/25.40.172.12:59675] logged in with entity id 5843 at (254.0582981172682, -25.0, -275.8683870186388)
-[15:26:04] [Server thread/INFO]: Evandre joined the game
-[15:30:04] [Server thread/INFO]: Tris23 was shot by Skeleton
-[15:30:05] [Server thread/WARN]: Tris23 moved too quickly! -266.7663866810393,144.5625,252.19999998807907
-[15:30:05] [Server thread/WARN]: Tris23 moved too quickly! -266.7663866810393,144.5625,252.19999998807907
-[15:30:15] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
-[15:35:46] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:35:46] [Server thread/INFO]: Evandre left the game
-[15:36:05] [User Authenticator #15/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:36:06] [Server thread/INFO]: Evandre[/25.40.172.12:59688] logged in with entity id 8228 at (20.136079312730043, 134.0, -12.63601898284507)
-[15:36:06] [Server thread/INFO]: Evandre joined the game
-[15:36:19] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
-[15:36:29] [Server thread/WARN]: Evandre was kicked for floating too long!
-[15:36:29] [Server thread/INFO]: Evandre lost connection: Flying is not enabled on this server
-[15:36:29] [Server thread/INFO]: Evandre left the game
-[15:36:29] [Server thread/WARN]: handleDisconnection() called twice
-[15:36:40] [User Authenticator #16/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:36:41] [Server thread/INFO]: Evandre[/25.40.172.12:59692] logged in with entity id 8650 at (245.14057681254022, 133.1661092609382, -129.67595308522587)
-[15:36:41] [Server thread/INFO]: Evandre joined the game
-[15:37:02] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:37:02] [Server thread/INFO]: Evandre left the game
-[15:37:22] [User Authenticator #17/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:37:23] [Server thread/INFO]: Evandre[/25.40.172.12:59697] logged in with entity id 8926 at (276.78307848855604, 127.0, -132.7364722328162)
-[15:37:23] [Server thread/INFO]: Evandre joined the game
-[15:37:48] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:37:48] [Server thread/INFO]: Evandre left the game
-[15:38:23] [User Authenticator #18/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:38:23] [Server thread/INFO]: Evandre[/25.40.172.12:59703] logged in with entity id 9354 at (348.09512409998024, 110.0, -140.01230228720775)
-[15:38:23] [Server thread/INFO]: Evandre joined the game
-[15:39:01] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
-[15:43:27] [Server thread/INFO]: Tris23 has completed the challenge [Sniper Duel]
-[15:44:24] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:44:24] [Server thread/INFO]: Evandre left the game
-[15:44:44] [User Authenticator #19/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[15:44:45] [Server thread/INFO]: Evandre[/25.40.172.12:59717] logged in with entity id 12780 at (583.5238051432866, 62.110764312744145, -221.79511033679657)
-[15:44:45] [Server thread/INFO]: Evandre joined the game
-[15:45:05] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
-[15:47:18] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[15:47:24] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[15:47:45] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[15:47:51] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[15:47:54] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[15:47:58] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[15:48:03] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[15:48:09] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[15:48:13] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[15:48:22] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[15:48:40] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
-[15:48:53] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
-[15:49:11] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
-[15:49:16] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
-[15:49:19] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
-[15:49:31] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[15:49:49] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[15:49:53] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
-[15:50:04] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[15:50:10] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
-[15:50:18] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
-[15:50:38] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
-[15:50:49] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
-[15:54:29] [Server thread/INFO]: Tris23 lost connection: Disconnected
-[15:54:29] [Server thread/INFO]: Tris23 left the game
-[15:54:32] [Server thread/INFO]: Evandre lost connection: Disconnected
-[15:54:32] [Server thread/INFO]: Evandre left the game
-[15:54:39] [User Authenticator #20/INFO]: UUID of player Tris23 is 6aead32f-d501-4c44-a7df-759b55ab3f9e
-[15:54:40] [Server thread/INFO]: Tris23[/127.0.0.1:53241] logged in with entity id 15168 at (29.395205613525714, 133.0, -0.8122072985174127)
-[15:54:40] [Server thread/INFO]: Tris23 joined the game
-[15:54:53] [Server thread/INFO]: Tris23 lost connection: Disconnected
-[15:54:53] [Server thread/INFO]: Tris23 left the game
-[15:55:03] [Server thread/INFO]: Stopping server
-[15:55:03] [Server thread/INFO]: Saving players
-[15:55:03] [Server thread/INFO]: Saving worlds
-[15:55:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:55:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:55:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:55:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:55:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:55:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:55:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:03:19] [Server thread/INFO]: Tolviadi was blown up by Creeper
+[00:06:27] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[00:06:27] [Server thread/WARN]: Tris23 moved too quickly! -254.47723503903714,100.0,402.32032959643095
+[00:06:27] [Server thread/WARN]: Tris23 moved too quickly! -254.47723503903714,100.0,402.32032959643095
+[00:08:51] [Server thread/INFO]: Tolviadi lost connection: Disconnected
+[00:08:51] [Server thread/INFO]: Tolviadi left the game
+[00:09:52] [User Authenticator #97/INFO]: UUID of player Tolviadi is 5784ed68-2672-4e50-9a4b-048eb7b5870e
+[00:09:53] [Server thread/INFO]: Tolviadi[/25.35.90.96:61294] logged in with entity id 121268 at (33.03224380252637, 95.0, 87.86601167210429)
+[00:09:53] [Server thread/INFO]: Tolviadi joined the game
+[00:19:09] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
+[00:19:17] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
+[00:19:22] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
+[00:21:05] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
+[00:21:12] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[00:23:11] [Server thread/INFO]: [Evandre: Teleported Tolviadi to Tris23]
+[00:26:15] [Server thread/INFO]: [Evandre: Teleported Tolviadi to Evandre]
+[00:27:54] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
+[00:28:06] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[00:28:13] [Server thread/INFO]: [Evandre: Teleported Tolviadi to Evandre]
+[00:28:23] [Server thread/INFO]: Tolviadi has made the advancement [Sneak 100]
+[00:30:13] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[00:30:15] [Server thread/WARN]: Tris23 moved too quickly! 147.31681634495357,181.25,-258.80000001192093
+[00:30:20] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[00:30:20] [Server thread/WARN]: Tris23 moved too quickly! -139.8985578106645,-180.83000001311302,266.7203523914397
+[00:30:21] [Server thread/INFO]: Evandre was obliterated by a sonically-charged shriek
+[00:30:28] [Server thread/INFO]: [Evandre: Teleported Evandre to Tolviadi]
+[00:30:48] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[00:30:51] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[00:30:51] [Server thread/WARN]: Tris23 moved too quickly! -163.13208075964866,-179.25,235.4114823146505
+[00:30:51] [Server thread/WARN]: Tris23 moved too quickly! -163.13208075964866,-179.25,235.4114823146505
+[00:31:07] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:31:11] [Server thread/INFO]: Tris23 was slain by Warden
+[00:31:14] [Server thread/WARN]: Tris23 moved too quickly! 147.80000001192093,181.25,-218.8437481372817
+[00:31:14] [Server thread/WARN]: Tris23 moved too quickly! 147.80000001192093,181.25,-218.8437481372817
+[00:31:14] [Server thread/WARN]: Tris23 moved too quickly! 147.80000001192093,181.25,-218.8437481372817
+[00:31:15] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[00:31:15] [Server thread/WARN]: Tris23 moved too quickly! -163.2475468446287,-181.25,246.14735240795676
+[00:31:26] [Server thread/INFO]: [Tris23: Teleported Tolviadi to Tris23]
+[00:31:28] [Server thread/INFO]: Evandre was obliterated by a sonically-charged shriek
+[00:31:34] [Server thread/INFO]: Tris23 was slain by Warden
+[00:31:35] [Server thread/WARN]: Tris23 moved too quickly! 172.19999998807907,181.25,-244.97084374632578
+[00:31:35] [Server thread/WARN]: Tris23 moved too quickly! 172.19999998807907,181.25,-244.97084374632578
+[00:31:39] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[00:31:50] [Server thread/INFO]: Evandre was obliterated by a sonically-charged shriek
+[00:31:55] [Server thread/INFO]: [Tris23: Teleported Tolviadi to Tris23]
+[00:32:13] [Server thread/INFO]: Tris23 was slain by Warden
+[00:32:15] [Server thread/WARN]: Tris23 moved too quickly! -0.23252198703873717,0.0,12.853033194464103
+[00:32:15] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:32:37] [Server thread/INFO]: Evandre was slain by Warden
+[00:32:41] [Server thread/INFO]: Tris23 was slain by Warden
+[00:32:45] [Server thread/INFO]: Evandre was slain by Warden
+[00:32:53] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:33:25] [Server thread/INFO]: Tolviadi lost connection: Timed out
+[00:33:25] [Server thread/INFO]: Tolviadi left the game
+[00:33:34] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[00:33:36] [Server thread/WARN]: Tris23 moved too quickly! 27.760486674067863,1.0,27.80000001192093
+[00:33:36] [Server thread/WARN]: Tris23 moved too quickly! 27.760486674067863,1.0,27.80000001192093
+[00:33:36] [Server thread/WARN]: Tris23 moved too quickly! 27.760486674067863,1.0,27.80000001192093
+[00:33:43] [Server thread/INFO]: Evandre was slain by Warden
+[00:34:09] [User Authenticator #98/INFO]: UUID of player Tolviadi is 5784ed68-2672-4e50-9a4b-048eb7b5870e
+[00:34:10] [Server thread/INFO]: Tolviadi[/25.35.90.96:51765] logged in with entity id 126343 at (-89.72892398113133, -51.0, 297.8024360054738)
+[00:34:10] [Server thread/INFO]: Tolviadi joined the game
+[00:34:33] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:34:37] [Server thread/INFO]: Tris23 was slain by Warden
+[00:34:38] [Server thread/WARN]: Tris23 moved too quickly! 43.24754187501421,2.0,-5.523324084517924
+[00:34:47] [Server thread/INFO]: Tris23 was slain by Warden
+[00:35:09] [Server thread/WARN]: Tolviadi moved too quickly! -0.7825172590163874,0.0,10.115337630045246
+[00:35:11] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:35:20] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:35:27] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:35:34] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:35:40] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:35:50] [Server thread/INFO]: Evandre was obliterated by a sonically-charged shriek
+[00:35:52] [Server thread/INFO]: Tris23 was slain by Warden
+[00:36:04] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:36:11] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:36:37] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[00:36:38] [Server thread/WARN]: Tris23 moved too quickly! 33.84201512079093,-5.385250363929053,11.826768919840106
+[00:36:38] [Server thread/WARN]: Tris23 moved too quickly! 33.84201512079093,-5.385250363929053,11.826768919840106
+[00:36:40] [Server thread/INFO]: Evandre was slain by Warden
+[00:36:53] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:37:16] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:37:19] [Server thread/INFO]: Tris23 was slain by Warden
+[00:37:23] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:37:40] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:38:00] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:38:05] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:38:12] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:38:17] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:38:23] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:38:28] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:38:43] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:38:58] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:39:05] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:39:10] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:39:10] [Server thread/INFO]: Evandre was obliterated by a sonically-charged shriek
+[00:39:15] [Server thread/INFO]: Tolviadi has completed the challenge [It Spreads]
+[00:39:46] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[00:39:59] [Server thread/INFO]: Evandre was slain by Warden
+[00:40:01] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:40:08] [Server thread/INFO]: Tris23 was slain by Warden
+[00:40:10] [Server thread/WARN]: Tris23 moved too quickly! 5.199999988079071,5.0,8.800000011920929
+[00:40:23] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[00:40:23] [Server thread/WARN]: Tris23 moved too quickly! -19.211716555758727,0.0,-15.788683019185896
+[00:40:23] [Server thread/WARN]: Tris23 moved too quickly! -19.211716555758727,0.0,-15.788683019185896
+[00:40:23] [Server thread/WARN]: Tris23 moved too quickly! -19.211716555758727,0.0,-15.788683019185896
+[00:40:40] [Server thread/INFO]: Tolviadi was slain by Tris23
+[00:41:02] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:41:17] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:41:30] [Server thread/INFO]: Tris23 was slain by Warden
+[00:41:33] [Server thread/INFO]: Evandre was slain by Warden
+[00:41:44] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:42:09] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:42:28] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:42:42] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:42:49] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:42:55] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:43:05] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:43:07] [Server thread/INFO]: Evandre was slain by Warden
+[00:43:20] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:43:27] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:43:40] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:43:43] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[00:43:44] [Server thread/WARN]: Tris23 moved too quickly! -14.008021837942351,0.0,56.19999998807907
+[00:43:44] [Server thread/WARN]: Tris23 moved too quickly! -14.008021837942351,0.0,56.19999998807907
+[00:43:51] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:43:53] [Server thread/INFO]: Evandre was slain by Warden
+[00:43:57] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:44:04] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:44:15] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:44:22] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:44:31] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:44:38] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:44:57] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:45:07] [Server thread/INFO]: Evandre was slain by Warden
+[00:45:19] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:45:34] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:45:41] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:45:46] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:45:52] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:45:57] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:46:00] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[00:46:01] [Server thread/WARN]: Tris23 moved too quickly! 128.80894115862762,1.5,40.808719818405706
+[00:46:03] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:46:09] [Server thread/INFO]: Tris23 was slain by Warden
+[00:46:09] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:46:16] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:46:18] [Server thread/INFO]: Tris23 was slain by Warden
+[00:46:19] [Server thread/WARN]: Tris23 moved too quickly! -0.8513666589201847,0.0,10.808771169958789
+[00:46:22] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:46:28] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:46:33] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[00:46:36] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:46:41] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:46:46] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:46:52] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:46:58] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:47:03] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:47:04] [Server thread/INFO]: Evandre was slain by Warden
+[00:47:09] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:47:21] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:47:26] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:47:31] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:47:37] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:47:43] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:47:49] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:47:54] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:47:59] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:48:07] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:48:13] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:48:19] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:48:24] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:48:30] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:48:30] [Server thread/INFO]: Tris23 was slain by Warden
+[00:48:31] [Server thread/WARN]: Tris23 moved too quickly! 48.059557957294146,2.0,-12.199999988079071
+[00:48:31] [Server thread/WARN]: Tris23 moved too quickly! 48.059557957294146,2.0,-12.199999988079071
+[00:48:36] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:48:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-101, y=-48, z=289}
+[00:48:42] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:49:16] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[00:49:18] [Server thread/WARN]: Tris23 moved too quickly! 4.199999988079071,1.1637564494619568,76.01249998807907
+[00:49:18] [Server thread/WARN]: Tris23 moved too quickly! 4.199999988079071,1.1637564494619568,76.01249998807907
+[00:49:51] [Server thread/INFO]: Tolviadi was obliterated by a sonically-charged shriek
+[00:50:47] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:51:10] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:51:20] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:51:26] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:51:31] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:51:37] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:51:43] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:51:49] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:51:54] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:51:59] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:52:05] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:52:10] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:52:16] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:52:22] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:52:28] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:52:33] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:52:39] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:52:44] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:52:49] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:52:55] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:53:01] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:53:06] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:53:12] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:53:18] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:53:24] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:53:30] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:53:35] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:53:40] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:53:45] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:53:51] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:53:59] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:54:04] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:54:09] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:54:15] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:54:21] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:54:27] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:54:33] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:54:38] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:54:51] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:54:56] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:55:02] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:55:10] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:55:11] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[00:55:16] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:55:22] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:55:28] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:55:34] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:55:42] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:55:45] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[00:55:46] [Server thread/WARN]: Tris23 moved too quickly! -14.468977618661754,2.0,7.423506901105327
+[00:55:46] [Server thread/WARN]: Tris23 moved too quickly! -14.468977618661754,2.0,7.423506901105327
+[00:55:48] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:55:53] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:55:59] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:56:00] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[00:56:00] [Server thread/WARN]: Tris23 moved too quickly! -46.942777088684124,-5.0,150.9177790369202
+[00:56:00] [Server thread/WARN]: Tris23 moved too quickly! -46.942777088684124,-5.0,150.9177790369202
+[00:56:05] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:56:10] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:56:16] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:56:22] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:56:24] [Server thread/INFO]: Evandre was obliterated by a sonically-charged shriek
+[00:56:29] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[00:56:31] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:56:38] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:56:44] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:56:50] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:56:55] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[00:56:55] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:56:56] [Server thread/WARN]: Tris23 moved too quickly! 74.78409130977721,2.0,-190.29024400460338
+[00:56:56] [Server thread/WARN]: Tris23 moved too quickly! 74.78409130977721,2.0,-190.29024400460338
+[00:56:56] [Server thread/WARN]: Tris23 moved too quickly! 74.78409130977721,2.0,-190.29024400460338
+[00:56:59] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[00:56:59] [Server thread/WARN]: Tris23 moved too quickly! -58.898543170684604,0.0,175.14405703244614
+[00:57:03] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:57:09] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:57:14] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:57:21] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:57:27] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:57:33] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:57:38] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:57:47] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:57:52] [Server thread/INFO]: Tolviadi has made the advancement [Take Aim]
+[00:58:00] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:58:06] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:58:14] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:58:22] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:58:28] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:58:33] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:58:39] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:58:45] [Server thread/INFO]: Tolviadi was slain by Warden
+[00:59:24] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[00:59:28] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[00:59:48] [Server thread/INFO]: Evandre was slain by Warden
+[00:59:57] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[01:00:44] [Server thread/INFO]: Tris23 was slain by Warden
+[01:00:45] [Server thread/WARN]: Tris23 moved too quickly! 39.07403523534697,-1.0,-189.80000001192093
+[01:00:45] [Server thread/WARN]: Tris23 moved too quickly! 39.07403523534697,-1.0,-189.80000001192093
+[01:00:46] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[01:00:46] [Server thread/WARN]: Tris23 moved too quickly! -83.85221141725978,2.0,191.24670989076583
+[01:01:29] [Server thread/INFO]: Tolviadi was slain by Warden
+[01:01:43] [Server thread/INFO]: Evandre was obliterated by a sonically-charged shriek
+[01:01:50] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[01:02:23] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[01:02:23] [Server thread/WARN]: Tris23 moved too quickly! -14.59061637145959,-1.0,-2.813085558609089
+[01:02:23] [Server thread/WARN]: Tris23 moved too quickly! -14.59061637145959,-1.0,-2.813085558609089
+[01:04:07] [Server thread/INFO]: Tolviadi was obliterated by a sonically-charged shriek
+[01:05:12] [Server thread/INFO]: Evandre was obliterated by a sonically-charged shriek
+[01:05:19] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[01:05:27] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[01:05:29] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[01:05:29] [Server thread/WARN]: Tris23 moved too quickly! 6.7046100307131695,0.0,142.23747603109229
+[01:05:29] [Server thread/WARN]: Tris23 moved too quickly! 6.7046100307131695,0.0,142.23747603109229
+[01:05:44] [Server thread/INFO]: Tolviadi was obliterated by a sonically-charged shriek
+[01:06:31] [Server thread/INFO]: Tolviadi was slain by Warden
+[01:06:58] [Server thread/INFO]: Tolviadi lost connection: Timed out
+[01:06:58] [Server thread/INFO]: Tolviadi left the game
+[01:07:10] [User Authenticator #99/INFO]: UUID of player Tolviadi is 5784ed68-2672-4e50-9a4b-048eb7b5870e
+[01:07:11] [Server thread/INFO]: Tolviadi[/25.35.90.96:60606] logged in with entity id 141828 at (-105.59795862987102, -51.0, 265.2151155286449)
+[01:07:11] [Server thread/INFO]: Tolviadi joined the game
+[01:07:35] [Server thread/INFO]: Tris23 was slain by Warden
+[01:07:36] [Server thread/WARN]: Tris23 moved too quickly! -0.4417571929811004,2.0,-173.17941694050825
+[01:07:36] [Server thread/WARN]: Tris23 moved too quickly! -0.4417571929811004,2.0,-173.17941694050825
+[01:07:36] [Server thread/WARN]: Tris23 moved too quickly! -0.4417571929811004,2.0,-173.17941694050825
+[01:07:39] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[01:07:39] [Server thread/WARN]: Tris23 moved too quickly! 9.765562765876922,0.0,150.06059425881676
+[01:07:39] [Server thread/WARN]: Tris23 moved too quickly! 9.765562765876922,0.0,150.06059425881676
+[01:07:39] [Server thread/WARN]: Tris23 moved too quickly! 9.765562765876922,0.0,150.06059425881676
+[01:10:26] [Server thread/INFO]: Tris23 was slain by Warden
+[01:10:27] [Server thread/WARN]: Tris23 moved too quickly! -19.812204711401947,1.5,-108.80862737844996
+[01:10:29] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[01:10:29] [Server thread/WARN]: Tris23 moved too quickly! -76.05771993196745,-1.0,121.87086448698221
+[01:10:29] [Server thread/WARN]: Tris23 moved too quickly! -76.05771993196745,-1.0,121.87086448698221
+[01:10:29] [Server thread/WARN]: Tris23 moved too quickly! -76.05771993196745,-1.0,121.87086448698221
+[01:11:45] [Server thread/INFO]: Tolviadi was slain by Warden
+[01:12:41] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[01:12:45] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[01:12:45] [Server thread/WARN]: Tris23 moved too quickly! -60.960355286719675,14.0,87.48412884588953
+[01:12:45] [Server thread/WARN]: Tris23 moved too quickly! -60.960355286719675,14.0,87.48412884588953
+[01:14:12] [Server thread/INFO]: Tolviadi was slain by Warden
+[01:14:22] [Server thread/WARN]: Tolviadi moved too quickly! -7.581914295073759,-2.0,6.31672926934516
+[01:14:22] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[01:14:22] [Server thread/WARN]: Tris23 moved too quickly! 16.25084737350349,-4.5,8.316000815477025
+[01:14:22] [Server thread/WARN]: Tris23 moved too quickly! 16.25084737350349,-4.5,8.316000815477025
+[01:14:22] [Server thread/WARN]: Tris23 moved too quickly! 16.25084737350349,-4.5,8.316000815477025
+[01:14:26] [Server thread/WARN]: Tolviadi moved too quickly! -5.256241034187809,0.0,-8.756071070686744
+[01:14:33] [Server thread/WARN]: Tolviadi moved too quickly! -8.367697465391515,0.0,-5.741491013528275
+[01:14:57] [Server thread/INFO]: Tolviadi lost connection: Timed out
+[01:14:57] [Server thread/INFO]: Tolviadi left the game
+[01:20:45] [Server thread/INFO]: Tris23 was slain by Warden
+[01:20:47] [Server thread/WARN]: Tris23 moved too quickly! -18.471971027501198,-3.0,-77.1636115331433
+[01:20:47] [Server thread/WARN]: Tris23 moved too quickly! -18.471971027501198,-3.0,-77.1636115331433
+[01:20:51] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[01:20:51] [Server thread/WARN]: Tris23 moved too quickly! -52.85495053118453,3.0,202.04419673269047
+[01:25:18] [Server thread/INFO]: Evandre was obliterated by a sonically-charged shriek
+[01:25:24] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[01:31:36] [Server thread/INFO]: Tris23 was slain by Warden
+[01:31:40] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[01:31:40] [Server thread/WARN]: Tris23 moved too quickly! -103.94738539298774,-2.0,75.13544441267805
+[01:34:24] [Server thread/INFO]: Evandre was slain by Warden
+[01:34:31] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[01:35:42] [Server thread/INFO]: Tris23 was obliterated by a sonically-charged shriek
+[01:35:43] [Server thread/WARN]: Tris23 moved too quickly! 53.408280550658105,1.5,1.800000011920929
+[01:35:43] [Server thread/WARN]: Tris23 moved too quickly! 53.408280550658105,1.5,1.800000011920929
+[01:35:43] [Server thread/WARN]: Tris23 moved too quickly! 53.408280550658105,1.5,1.800000011920929
+[01:35:44] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[01:35:44] [Server thread/WARN]: Tris23 moved too quickly! -105.04407647950936,-2.0,8.737791035955468
+[01:35:44] [Server thread/WARN]: Tris23 moved too quickly! -105.04407647950936,-2.0,8.737791035955468
+[01:35:44] [Server thread/WARN]: Tris23 moved too quickly! -105.04407647950936,-2.0,8.737791035955468
+[01:36:02] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
+[01:36:04] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[01:37:50] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
+[01:38:35] [Server thread/INFO]: [Evandre: Set own game mode to Creative Mode]
+[01:39:18] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
+[01:39:29] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[01:41:22] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[01:41:34] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[01:49:02] [Server thread/INFO]: Evandre lost connection: Disconnected
+[01:49:02] [Server thread/INFO]: Evandre left the game
+[01:49:24] [Server thread/INFO]: Tris23 lost connection: Disconnected
+[01:49:24] [Server thread/INFO]: Tris23 left the game
+[01:49:49] [Server thread/INFO]: Stopping server
+[01:49:49] [Server thread/INFO]: Saving players
+[01:49:49] [Server thread/INFO]: Saving worlds
+[01:49:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:49:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:49:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

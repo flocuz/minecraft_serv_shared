@@ -36,6 +36,7 @@
       "minecraft:flower_forest": "2024-06-24 19:10:55 +0200",
       "minecraft:beach": "2024-06-24 19:33:16 +0200",
       "minecraft:dark_forest": "2024-07-01 20:51:03 +0200",
+      "minecraft:mangrove_swamp": "2024-07-17 23:45:21 +0200",
       "minecraft:sparse_jungle": "2024-06-24 22:08:56 +0200",
       "minecraft:river": "2024-06-24 19:13:12 +0200",
       "minecraft:lukewarm_ocean": "2024-06-24 22:56:40 +0200",
@@ -5266,6 +5267,54 @@
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2024-07-12 15:43:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-07-18 00:28:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-07-18 00:38:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-07-18 00:42:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2024-07-18 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2024-07-18 00:42:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2024-07-18 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2024-07-18 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-07-18 00:28:45 +0200"
     },
     "done": true
   },
