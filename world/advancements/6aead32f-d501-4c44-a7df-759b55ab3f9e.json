@@ -7,34 +7,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2024-06-24 19:41:53 +0200",
       "minecraft:snowy_slopes": "2024-06-20 18:30:34 +0200",
       "minecraft:old_growth_pine_taiga": "2024-07-11 21:39:42 +0200",
       "minecraft:mushroom_fields": "2024-07-11 22:21:14 +0200",
-      "minecraft:forest": "2024-06-24 19:20:42 +0200",
       "minecraft:taiga": "2024-06-24 19:32:58 +0200",
       "minecraft:deep_ocean": "2024-07-11 21:55:14 +0200",
-      "minecraft:lush_caves": "2024-07-07 20:49:39 +0200",
-      "minecraft:deep_cold_ocean": "2024-07-01 21:35:16 +0200",
-      "minecraft:frozen_ocean": "2024-06-24 19:47:08 +0200",
       "minecraft:eroded_badlands": "2024-07-02 01:42:41 +0200",
-      "minecraft:desert": "2024-06-24 23:01:30 +0200",
       "minecraft:frozen_river": "2024-07-01 21:06:53 +0200",
-      "minecraft:deep_frozen_ocean": "2024-06-24 19:49:00 +0200",
-      "minecraft:jungle": "2024-06-24 22:08:38 +0200",
-      "minecraft:ocean": "2024-07-11 21:52:15 +0200",
       "minecraft:cherry_grove": "2024-06-20 18:19:44 +0200",
       "minecraft:sunflower_plains": "2024-06-24 18:06:48 +0200",
       "minecraft:birch_forest": "2024-06-24 22:08:22 +0200",
       "minecraft:windswept_hills": "2024-07-01 21:24:01 +0200",
-      "minecraft:snowy_beach": "2024-07-01 21:20:48 +0200",
       "minecraft:wooded_badlands": "2024-06-24 23:09:47 +0200",
       "minecraft:bamboo_jungle": "2024-06-24 22:54:06 +0200",
-      "minecraft:windswept_savanna": "2024-07-18 19:24:14 +0200",
-      "minecraft:warm_ocean": "2024-06-24 23:01:33 +0200",
-      "minecraft:deep_lukewarm_ocean": "2024-07-03 23:53:39 +0200",
       "minecraft:badlands": "2024-07-02 01:42:34 +0200",
-      "minecraft:flower_forest": "2024-06-24 19:10:55 +0200",
       "minecraft:beach": "2024-06-24 19:33:16 +0200",
       "minecraft:dark_forest": "2024-07-01 20:51:03 +0200",
       "minecraft:mangrove_swamp": "2024-07-17 23:45:21 +0200",
@@ -45,15 +31,31 @@
       "minecraft:snowy_plains": "2024-07-01 21:06:09 +0200",
       "minecraft:dripstone_caves": "2024-06-24 18:04:34 +0200",
       "minecraft:snowy_taiga": "2024-07-01 21:19:48 +0200",
+      "minecraft:grove": "2024-06-24 22:05:44 +0200",
+      "minecraft:swamp": "2024-07-20 21:34:11 +0200",
+      "minecraft:jagged_peaks": "2024-06-24 19:11:28 +0200",
+      "minecraft:cold_ocean": "2024-06-24 19:41:53 +0200",
+      "minecraft:forest": "2024-06-24 19:20:42 +0200",
+      "minecraft:lush_caves": "2024-07-07 20:49:39 +0200",
+      "minecraft:deep_cold_ocean": "2024-07-01 21:35:16 +0200",
+      "minecraft:frozen_ocean": "2024-06-24 19:47:08 +0200",
+      "minecraft:desert": "2024-06-24 23:01:30 +0200",
+      "minecraft:deep_frozen_ocean": "2024-06-24 19:49:00 +0200",
+      "minecraft:windswept_forest": "2024-07-20 22:37:17 +0200",
+      "minecraft:jungle": "2024-06-24 22:08:38 +0200",
+      "minecraft:ocean": "2024-07-11 21:52:15 +0200",
+      "minecraft:snowy_beach": "2024-07-01 21:20:48 +0200",
+      "minecraft:windswept_savanna": "2024-07-18 19:24:14 +0200",
+      "minecraft:warm_ocean": "2024-06-24 23:01:33 +0200",
+      "minecraft:deep_lukewarm_ocean": "2024-07-03 23:53:39 +0200",
+      "minecraft:flower_forest": "2024-06-24 19:10:55 +0200",
       "minecraft:frozen_peaks": "2024-06-24 22:36:27 +0200",
       "minecraft:old_growth_birch_forest": "2024-06-24 22:29:02 +0200",
       "minecraft:deep_dark": "2024-06-24 18:48:27 +0200",
-      "minecraft:grove": "2024-06-24 22:05:44 +0200",
       "minecraft:meadow": "2024-06-24 19:16:43 +0200",
       "minecraft:windswept_gravelly_hills": "2024-07-01 21:17:47 +0200",
       "minecraft:savanna": "2024-06-24 22:41:32 +0200",
-      "minecraft:plains": "2024-06-24 18:58:40 +0200",
-      "minecraft:jagged_peaks": "2024-06-24 19:11:28 +0200"
+      "minecraft:plains": "2024-06-24 18:58:40 +0200"
     },
     "done": false
   },
@@ -158,27 +160,28 @@
       "minecraft:pillager": "2024-06-30 01:12:03 +0200",
       "minecraft:blaze": "2024-07-02 01:11:42 +0200",
       "minecraft:skeleton": "2024-06-24 18:44:18 +0200",
+      "minecraft:ghast": "2024-07-18 17:46:18 +0200",
+      "minecraft:breeze": "2024-06-29 21:20:58 +0200",
+      "minecraft:vindicator": "2024-07-20 22:42:53 +0200",
+      "minecraft:magma_cube": "2024-07-02 01:20:06 +0200",
+      "minecraft:spider": "2024-06-24 18:43:56 +0200",
+      "minecraft:piglin_brute": "2024-07-18 18:21:10 +0200",
+      "minecraft:creeper": "2024-06-24 18:43:49 +0200",
+      "minecraft:slime": "2024-06-29 22:06:18 +0200",
       "minecraft:phantom": "2024-07-11 22:34:36 +0200",
       "minecraft:zombified_piglin": "2024-07-02 01:14:45 +0200",
       "minecraft:witch": "2024-07-01 23:07:38 +0200",
       "minecraft:wither_skeleton": "2024-07-02 01:11:32 +0200",
       "minecraft:husk": "2024-06-24 23:06:50 +0200",
-      "minecraft:ghast": "2024-07-18 17:46:18 +0200",
       "minecraft:cave_spider": "2024-06-24 22:10:35 +0200",
       "minecraft:piglin": "2024-07-11 16:28:17 +0200",
-      "minecraft:breeze": "2024-06-29 21:20:58 +0200",
       "minecraft:enderman": "2024-06-24 19:06:35 +0200",
       "minecraft:silverfish": "2024-06-29 21:30:37 +0200",
       "minecraft:stray": "2024-06-29 21:00:00 +0200",
-      "minecraft:magma_cube": "2024-07-02 01:20:06 +0200",
-      "minecraft:spider": "2024-06-24 18:43:56 +0200",
-      "minecraft:piglin_brute": "2024-07-18 18:21:10 +0200",
       "minecraft:vex": "2024-07-01 22:14:42 +0200",
       "minecraft:zombie": "2024-06-24 17:39:49 +0200",
-      "minecraft:creeper": "2024-06-24 18:43:49 +0200",
       "minecraft:drowned": "2024-06-24 19:52:08 +0200",
-      "minecraft:zombie_villager": "2024-06-24 21:50:48 +0200",
-      "minecraft:slime": "2024-06-29 22:06:18 +0200"
+      "minecraft:zombie_villager": "2024-06-24 21:50:48 +0200"
     },
     "done": false
   },
@@ -5323,9 +5326,39 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
     "criteria": {
-      "crying_obsidian": "2024-07-18 18:37:36 +0200"
+      "has_tuff_brick_slab": "2024-07-18 16:32:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-07-18 18:17:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-07-18 18:18:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-07-18 18:22:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-07-18 18:22:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-07-18 18:34:36 +0200"
     },
     "done": true
   },
@@ -5338,12 +5371,6 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-07-18 18:34:38 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2024-07-18 18:18:45 +0200"
     },
     "done": true
   },
@@ -5365,36 +5392,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2024-07-18 18:22:13 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
-    "criteria": {
-      "has_tuff_brick_slab": "2024-07-18 16:32:45 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wolf_armor": {
-    "criteria": {
-      "has_armadillo_scute": "2024-07-18 23:13:33 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2024-07-18 22:00:05 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2024-07-18 18:37:36 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-07-18 18:34:38 +0200"
@@ -5407,45 +5404,9 @@
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2024-07-18 18:22:11 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-07-18 18:34:38 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2024-07-18 22:00:05 +0200"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2024-07-18 18:17:42 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-07-18 18:34:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_door_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_copper_door": "2024-07-18 23:03:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2024-07-18 22:00:05 +0200"
     },
     "done": true
   },
@@ -5464,6 +5425,144 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-07-18 18:34:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-07-18 18:37:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-07-18 18:37:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-07-18 22:00:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-07-18 22:00:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-07-18 22:00:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_door_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_door": "2024-07-18 23:03:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2024-07-18 23:13:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-07-20 20:10:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-07-20 22:13:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-07-20 18:45:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-07-20 22:13:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2024-07-20 20:10:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2024-07-20 20:10:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-07-20 18:45:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-07-20 22:45:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-07-20 20:10:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-07-20 20:10:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2024-07-20 20:10:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2024-07-20 20:10:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2024-07-20 20:10:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-07-20 18:45:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-07-20 20:10:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-07-20 22:45:23 +0200"
     },
     "done": true
   },

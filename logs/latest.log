@@ -1,101 +1,358 @@
-[00:03:27] [Server thread/INFO]: Evandre lost connection: Timed out
-[00:03:27] [Server thread/INFO]: Evandre left the game
-[00:03:53] [User Authenticator #82/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[00:03:54] [Server thread/INFO]: Evandre[/25.40.172.12:55840] logged in with entity id 124561 at (-67.43772224413878, 26.0, -760.7538774566206)
-[00:03:54] [Server thread/INFO]: Evandre joined the game
-[00:07:39] [Server thread/INFO]: Evandre lost connection: Timed out
-[00:07:39] [Server thread/INFO]: Evandre left the game
-[00:07:46] [User Authenticator #83/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[00:07:47] [Server thread/INFO]: Evandre[/25.40.172.12:55849] logged in with entity id 125582 at (43.493747499262234, -33.0, -767.8768597951045)
-[00:07:47] [Server thread/INFO]: Evandre joined the game
-[00:09:46] [Server thread/INFO]: Tris23 was slain by Zombie
-[00:09:49] [Server thread/WARN]: Tris23 moved too quickly! 24.19999998807907,152.5625,766.2790705132446
-[00:09:49] [Server thread/WARN]: Tris23 moved too quickly! 24.19999998807907,152.5625,766.2790705132446
-[00:09:49] [Server thread/WARN]: Tris23 moved too quickly! 24.19999998807907,152.5625,766.2790705132446
-[00:09:49] [Server thread/WARN]: Tris23 moved too quickly! 24.19999998807907,152.5625,766.2790705132446
-[00:09:49] [Server thread/WARN]: Tris23 moved too quickly! 24.19999998807907,152.5625,766.2790705132446
-[00:10:10] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
-[00:10:10] [Server thread/WARN]: Tris23 moved too quickly! 18.898927919737304,-158.3963907390618,-749.8233629814973
-[00:10:10] [Server thread/WARN]: Tris23 moved too quickly! 18.898927919737304,-158.3963907390618,-749.8233629814973
-[00:10:10] [Server thread/WARN]: Tris23 moved too quickly! 18.898927919737304,-158.3963907390618,-749.8233629814973
-[00:10:13] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[00:11:16] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[00:11:31] [User Authenticator #84/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[00:11:35] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[00:11:38] [Server thread/INFO]: Evandre lost connection: Disconnected
-[00:11:38] [Server thread/INFO]: Evandre left the game
-[00:11:39] [Server thread/INFO]: Evandre[/25.40.172.12:55862] logged in with entity id 126820 at (7.640062798561579, -28.0, -794.3269626570583)
-[00:11:39] [Server thread/INFO]: Evandre joined the game
-[00:12:13] [Server thread/INFO]: Evandre lost connection: Disconnected
-[00:12:13] [Server thread/INFO]: Evandre left the game
-[00:12:29] [User Authenticator #85/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[00:12:30] [Server thread/INFO]: Evandre[/25.40.172.12:55869] logged in with entity id 127362 at (22.30830951394992, -20.0, -808.5388538426582)
-[00:12:30] [Server thread/INFO]: Evandre joined the game
-[00:13:38] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[00:13:41] [Server thread/INFO]: Evandre lost connection: Disconnected
-[00:13:41] [Server thread/INFO]: Evandre left the game
-[00:14:19] [User Authenticator #86/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[00:14:20] [Server thread/INFO]: Evandre[/25.40.172.12:55877] logged in with entity id 128441 at (16.08268260632396, -20.0, -806.7783064548886)
-[00:14:20] [Server thread/INFO]: Evandre joined the game
-[00:14:23] [Server thread/INFO]: Tris23 drowned
-[00:14:25] [Server thread/WARN]: Tris23 moved too quickly! 715.576424339564,75.5625,831.9795972135109
-[00:14:25] [Server thread/WARN]: Tris23 moved too quickly! 715.576424339564,75.5625,831.9795972135109
-[00:14:25] [Server thread/WARN]: Tris23 moved too quickly! 715.576424339564,75.5625,831.9795972135109
-[00:14:25] [Server thread/WARN]: Tris23 moved too quickly! 715.576424339564,75.5625,831.9795972135109
-[00:14:25] [Server thread/WARN]: Tris23 moved too quickly! 715.576424339564,75.5625,831.9795972135109
-[00:14:25] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
-[00:14:48] [Server thread/INFO]: Evandre lost connection: Disconnected
-[00:14:48] [Server thread/INFO]: Evandre left the game
-[00:15:07] [User Authenticator #87/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[00:15:08] [Server thread/INFO]: Evandre[/25.40.172.12:55886] logged in with entity id 129121 at (12.677207880499914, -12.49997918085383, -766.5863767192891)
-[00:15:08] [Server thread/INFO]: Evandre joined the game
-[00:15:32] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
-[00:15:36] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
-[00:15:48] [Server thread/INFO]: Evandre lost connection: Disconnected
-[00:15:48] [Server thread/INFO]: Evandre left the game
-[00:16:24] [User Authenticator #88/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[00:16:24] [Server thread/INFO]: Evandre[/25.40.172.12:55897] logged in with entity id 129561 at (43.608954107962525, 131.0, -0.5214955560792204)
-[00:16:24] [Server thread/INFO]: Evandre joined the game
-[00:16:49] [Server thread/INFO]: [Tris23: Set the weather to clear]
-[00:17:06] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[00:17:11] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[00:17:25] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[00:17:31] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[00:17:40] [Server thread/INFO]: Evandre lost connection: Timed out
-[00:17:40] [Server thread/INFO]: Evandre left the game
-[00:17:50] [User Authenticator #89/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[00:17:50] [Server thread/INFO]: Evandre[/25.40.172.12:55905] logged in with entity id 129739 at (45.68619198856863, 130.0, -19.403387611141664)
-[00:17:50] [Server thread/INFO]: Evandre joined the game
-[00:18:23] [Server thread/INFO]: [Evandre: Set own game mode to Creative Mode]
-[00:18:45] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
-[00:20:36] [Server thread/INFO]: Evandre lost connection: Timed out
-[00:20:36] [Server thread/INFO]: Evandre left the game
-[00:20:43] [User Authenticator #90/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[00:20:44] [Server thread/INFO]: Evandre[/25.40.172.12:55913] logged in with entity id 130155 at (13.342862118955221, 98.0, 64.32636864595356)
-[00:20:44] [Server thread/INFO]: Evandre joined the game
-[00:21:40] [Server thread/INFO]: [Evandre: Set own game mode to Creative Mode]
-[00:22:18] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
-[00:23:19] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
-[00:23:32] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
-[00:23:32] [Server thread/WARN]: Tris23 moved too quickly! -9.14140260191403,8.744381377791157,-14.165034054209073
-[00:23:33] [Server thread/WARN]: Tris23 moved too quickly! -9.14140260191403,8.744381377791157,-14.165034054209073
-[00:23:33] [Server thread/WARN]: Tris23 moved too quickly! -9.14140260191403,8.744381377791157,-14.165034054209073
-[00:23:41] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[00:26:15] [Server thread/INFO]: Tris23 was shot by Evandre
-[00:26:17] [Server thread/WARN]: Tris23 moved too quickly! 30.831561485896223,37.5625,-128.01145669166237
-[00:26:17] [Server thread/WARN]: Tris23 moved too quickly! 30.831561485896223,37.5625,-128.01145669166237
-[00:26:17] [Server thread/WARN]: Tris23 moved too quickly! 30.831561485896223,37.5625,-128.01145669166237
-[00:37:31] [Server thread/INFO]: Evandre lost connection: Timed out
-[00:37:31] [Server thread/INFO]: Evandre left the game
-[00:42:14] [Server thread/INFO]: Tris23 lost connection: Disconnected
-[00:42:14] [Server thread/INFO]: Tris23 left the game
-[00:42:29] [Server thread/INFO]: Stopping server
-[00:42:29] [Server thread/INFO]: Saving players
-[00:42:29] [Server thread/INFO]: Saving worlds
-[00:42:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:42:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:42:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:52:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:52:08] [ServerMain/INFO]: Loaded 1290 recipes
+[17:52:08] [ServerMain/INFO]: Loaded 1399 advancements
+[17:52:11] [Server thread/INFO]: Starting minecraft server version 1.21
+[17:52:11] [Server thread/INFO]: Loading properties
+[17:52:11] [Server thread/INFO]: Default game type: SURVIVAL
+[17:52:11] [Server thread/INFO]: Generating keypair
+[17:52:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:52:11] [Server thread/INFO]: Using default channel type
+[17:52:11] [Server thread/INFO]: Preparing level "world"
+[17:52:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:52:14] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:52:14] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:52:14] [Server thread/INFO]: Time elapsed: 1101 ms
+[17:52:14] [Server thread/INFO]: Done (3.080s)! For help, type "help"
+[17:53:56] [User Authenticator #1/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[17:53:57] [Server thread/INFO]: Evandre[/25.40.172.12:57729] logged in with entity id 92 at (40.37977607137327, 130.0, -7.425354906905677)
+[17:53:57] [Server thread/INFO]: Evandre joined the game
+[17:54:39] [User Authenticator #2/INFO]: UUID of player Tris23 is 6aead32f-d501-4c44-a7df-759b55ab3f9e
+[17:54:40] [Server thread/INFO]: Tris23[/127.0.0.1:55789] logged in with entity id 367 at (38.401444115801105, 130.0, -5.499455393934864)
+[17:54:40] [Server thread/INFO]: Tris23 joined the game
+[18:19:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-58, y=24, z=-2} jd{x=-58, y=23, z=-1}
+[18:19:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-57, y=24, z=-1} jd{x=-57, y=23, z=-1}
+[18:19:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-57, y=24, z=-1} jd{x=-57, y=23, z=-1}
+[18:19:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-57, y=24, z=-1} jd{x=-57, y=23, z=-1}
+[18:19:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-59, y=21, z=2} jd{x=-60, y=19, z=1}
+[18:19:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-59, y=21, z=2} jd{x=-60, y=19, z=1}
+[18:19:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-59, y=21, z=2} jd{x=-60, y=19, z=1}
+[18:19:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-59, y=21, z=2} jd{x=-60, y=19, z=1}
+[18:20:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-63, y=15, z=1} jd{x=-63, y=16, z=1}
+[18:22:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-70, y=6, z=18} jd{x=-70, y=5, z=18}
+[18:22:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-70, y=6, z=18} jd{x=-70, y=5, z=18}
+[18:22:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-70, y=6, z=18} jd{x=-70, y=5, z=18}
+[18:22:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-70, y=6, z=18} jd{x=-70, y=5, z=18}
+[18:22:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-70, y=6, z=18} jd{x=-70, y=5, z=18}
+[18:22:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-70, y=6, z=21} jd{x=-70, y=8, z=26}
+[18:22:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-70, y=6, z=21} jd{x=-70, y=8, z=26}
+[18:23:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:23:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-39, y=16, z=11} jd{x=-33, y=16, z=10}
+[18:24:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-71, y=4, z=41} jd{x=-70, y=11, z=51}
+[18:24:37] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[18:25:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-16, y=12, z=37} jd{x=-16, y=13, z=38}
+[18:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:28:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=13, z=18} jd{x=5, y=15, z=20}
+[18:30:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-53, y=14, z=1} jd{x=-53, y=15, z=2}
+[18:30:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-53, y=14, z=1} jd{x=-53, y=15, z=2}
+[18:30:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-53, y=14, z=1} jd{x=-53, y=15, z=2}
+[18:30:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:30:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-51, y=11, z=4} jd{x=-50, y=13, z=0}
+[18:31:48] [Server thread/INFO]: Tris23 was shot by Evandre
+[18:32:08] [Server thread/INFO]: Evandre went up in flames
+[18:32:58] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[18:40:57] [Server thread/INFO]: Tris23 drowned
+[18:41:00] [Server thread/WARN]: Tris23 moved too quickly! -202.87612705976602,139.5625,286.9952325010836
+[18:41:06] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[18:44:34] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[18:46:25] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[18:46:25] [Server thread/WARN]: Tris23 moved too quickly! -121.10334186705788,6.0,-355.329127229989
+[18:51:36] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[18:51:36] [Server thread/WARN]: Tris23 moved too quickly! 71.77361241204824,-17.333890739061786,74.49817360840444
+[18:51:36] [Server thread/WARN]: Tris23 moved too quickly! 71.77361241204824,-17.333890739061786,74.49817360840444
+[18:51:36] [Server thread/WARN]: Tris23 moved too quickly! 71.77361241204824,-17.333890739061786,74.49817360840444
+[18:51:36] [Server thread/WARN]: Tris23 moved too quickly! 71.77361241204824,-17.333890739061786,74.49817360840444
+[18:51:36] [Server thread/WARN]: Tris23 moved too quickly! 71.77361241204824,-17.333890739061786,74.49817360840444
+[18:52:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-15, y=75, z=-3} jd{x=-19, y=73, z=0}
+[18:53:09] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[18:55:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-20, y=11, z=6} jd{x=-20, y=10, z=6}
+[18:56:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-23, y=10, z=34} jd{x=-26, y=12, z=42}
+[18:56:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-23, y=10, z=34} jd{x=-26, y=12, z=42}
+[18:56:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-23, y=10, z=34} jd{x=-26, y=12, z=42}
+[18:56:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-23, y=10, z=34} jd{x=-26, y=12, z=42}
+[18:56:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-23, y=10, z=34} jd{x=-26, y=12, z=42}
+[18:56:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-23, y=10, z=34} jd{x=-26, y=12, z=42}
+[19:05:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=19, y=9, z=65} jd{x=19, y=8, z=65}
+[19:05:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:05:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=12, z=22} jd{x=-47, y=12, z=21}
+[19:06:59] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[19:08:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=15, z=119} jd{x=6, y=15, z=118}
+[19:08:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=15, z=119} jd{x=6, y=15, z=118}
+[19:08:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=15, z=119} jd{x=6, y=15, z=118}
+[19:08:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=15, z=119} jd{x=6, y=15, z=118}
+[19:08:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=15, z=119} jd{x=6, y=15, z=118}
+[19:08:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=15, z=119} jd{x=6, y=15, z=118}
+[19:08:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=15, z=119} jd{x=6, y=15, z=118}
+[19:12:50] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[19:15:48] [Server thread/INFO]: Evandre tried to swim in lava
+[19:15:51] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[19:15:53] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[19:15:57] [Server thread/INFO]: Tris23 tried to swim in lava
+[19:19:56] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[19:26:19] [Server thread/INFO]: Evandre lost connection: Disconnected
+[19:26:19] [Server thread/INFO]: Evandre left the game
+[19:49:11] [User Authenticator #3/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[19:49:12] [Server thread/INFO]: Evandre[/25.40.172.12:57928] logged in with entity id 31347 at (254.69999998807907, -7.0, -282.16401801747367)
+[19:49:12] [Server thread/INFO]: Evandre joined the game
+[19:50:51] [Server thread/INFO]: Tris23 drowned
+[19:50:53] [Server thread/WARN]: Tris23 moved too quickly! -202.80000001192093,139.5625,286.98750001192093
+[19:50:53] [Server thread/WARN]: Tris23 moved too quickly! -202.80000001192093,139.5625,286.98750001192093
+[19:50:53] [Server thread/WARN]: Tris23 moved too quickly! -202.80000001192093,139.5625,286.98750001192093
+[19:50:53] [Server thread/WARN]: Tris23 moved too quickly! -202.80000001192093,139.5625,286.98750001192093
+[19:50:56] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[20:01:09] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[20:01:37] [Server thread/INFO]: Evandre was slain by Tris23
+[20:16:49] [Server thread/INFO]: <Evandre> mon pc sest eteint att
+[20:26:12] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[20:28:40] [Server thread/INFO]: [Evandre: Set the time to 1000]
+[20:29:26] [Server thread/INFO]: [Evandre: Set own game mode to Creative Mode]
+[20:29:50] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
+[20:30:15] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[20:32:12] [Server thread/WARN]: Horse (vehicle of Evandre) moved wrongly! 0.4151880280464866
+[20:34:20] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[20:35:31] [Server thread/WARN]: Horse (vehicle of Evandre) moved wrongly! 0.29948325127463704
+[20:37:27] [Server thread/WARN]: Horse (vehicle of Evandre) moved wrongly! 0.3692012328838814
+[20:37:27] [Server thread/WARN]: Horse (vehicle of Evandre) moved wrongly! 0.76448813762795
+[20:39:00] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
+[20:39:11] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[20:40:27] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[20:40:29] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[20:40:34] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
+[20:40:41] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[20:40:43] [Server thread/INFO]: Tris23 fell from a high place
+[20:41:17] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
+[20:42:44] [Server thread/INFO]: Evandre was shot by Skeleton
+[20:42:58] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[20:45:53] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[20:45:59] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[20:46:48] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
+[20:47:18] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[20:47:59] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[20:48:26] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[20:48:31] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[20:49:47] [Server thread/INFO]: [Tris23: Set own game mode to Spectator Mode]
+[20:49:52] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[20:50:05] [Server thread/INFO]: [Tris23: Set the weather to clear]
+[20:56:25] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[21:00:25] [Server thread/WARN]: Mangrove Boat (vehicle of Evandre) moved wrongly! 0.307438249808456
+[21:00:25] [Server thread/WARN]: Mangrove Boat (vehicle of Evandre) moved wrongly! 0.527624706423012
+[21:00:25] [Server thread/WARN]: Mangrove Boat (vehicle of Evandre) moved wrongly! 0.2560943027870053
+[21:00:25] [Server thread/WARN]: Mangrove Boat (vehicle of Evandre) moved wrongly! 0.5224329424972893
+[21:06:22] [Server thread/INFO]: Tris23 drowned
+[21:06:24] [Server thread/WARN]: Tris23 moved too quickly! 1126.0878234850231,70.94186231824978,2705.9336569128036
+[21:06:24] [Server thread/WARN]: Tris23 moved too quickly! 1126.0878234850231,70.94186231824978,2705.9336569128036
+[21:06:30] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[21:06:30] [Server thread/WARN]: Tris23 moved too quickly! -1128.282256303887,-67.5625,-2701.6598382922984
+[21:06:30] [Server thread/WARN]: Tris23 moved too quickly! -1128.282256303887,-67.5625,-2701.6598382922984
+[21:07:30] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[21:08:11] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[21:08:11] [Server thread/WARN]: Tris23 moved too quickly! 57.278018359358384,18.00133597911214,-98.28839728839102
+[21:10:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1306, y=65, z=-3050} jd{x=-1307, y=65, z=-3052}
+[21:10:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1306, y=65, z=-3050} jd{x=-1307, y=65, z=-3052}
+[21:10:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1306, y=65, z=-3050} jd{x=-1307, y=65, z=-3052}
+[21:10:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1306, y=65, z=-3050} jd{x=-1307, y=65, z=-3052}
+[21:14:08] [Server thread/INFO]: Evandre lost connection: Disconnected
+[21:14:08] [Server thread/INFO]: Evandre left the game
+[21:14:31] [User Authenticator #4/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[21:14:32] [Server thread/INFO]: Evandre[/25.40.172.12:63008] logged in with entity id 66428 at (-527.7677017421037, 62.11076431274414, -3170.6307176320806)
+[21:14:32] [Server thread/INFO]: Evandre joined the game
+[21:29:08] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[21:29:08] [Server thread/WARN]: Tris23 moved too quickly! 590.0081118530379,0.19290309573823095,-1062.9556171520776
+[21:29:08] [Server thread/WARN]: Tris23 moved too quickly! 590.0081118530379,0.19290309573823095,-1062.9556171520776
+[21:42:18] [Server thread/INFO]: [Evandre: Set the weather to rain]
+[21:42:22] [Server thread/INFO]: [Evandre: Set the weather to clear]
+[21:44:57] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[21:50:04] [Server thread/WARN]: Mangrove Boat (vehicle of Evandre) moved wrongly! 0.27114027438710764
+[21:50:04] [Server thread/WARN]: Mangrove Boat (vehicle of Evandre) moved wrongly! 0.43606212883059925
+[21:53:27] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[21:54:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1347, y=-15, z=-4575} jd{x=1346, y=-22, z=-4574}
+[21:54:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1346, y=-23, z=-4574} jd{x=1346, y=-22, z=-4574}
+[22:05:17] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[22:07:23] [Server thread/INFO]: Locating element minecraft:jungle_pyramid took 20 ms
+[22:09:15] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[22:09:15] [Server thread/WARN]: Tris23 moved too quickly! 28.75623501281575,0.301164138873375,62.086480773773474
+[22:09:15] [Server thread/WARN]: Tris23 moved too quickly! 28.75623501281575,0.301164138873375,62.086480773773474
+[22:09:21] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[22:09:21] [Server thread/WARN]: Tris23 moved too quickly! 23.938035696224688,1.4146265768004724,34.545710356712334
+[22:09:29] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[22:09:55] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[22:09:55] [Server thread/WARN]: Tris23 moved too quickly! 69.3702564260368,0.12129684053920187,0.18351652872570412
+[22:09:55] [Server thread/WARN]: Tris23 moved too quickly! 69.3702564260368,0.12129684053920187,0.18351652872570412
+[22:09:55] [Server thread/WARN]: Tris23 moved too quickly! 69.3702564260368,0.12129684053920187,0.18351652872570412
+[22:10:33] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[22:10:33] [Server thread/WARN]: Tris23 moved too quickly! 9.100028922405954,9.249187078744683,-1.0723435686504672
+[22:15:26] [Server thread/INFO]: Locating element minecraft:swamp_hut took 9 ms
+[22:15:49] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[22:15:49] [Server thread/WARN]: Tris23 moved too quickly! 12.01850474472053,0.0,8.838696614578112
+[22:19:21] [Server thread/INFO]: [Tris23: Teleported Tris23 to 752.500000, 74.000000, -5455.500000]
+[22:19:21] [Server thread/WARN]: Tris23 moved too quickly! -1087.800000011921,0.0,-1002.0068944450732
+[22:19:21] [Server thread/WARN]: Tris23 moved too quickly! -1087.800000011921,0.0,-1002.0068944450732
+[22:19:21] [Server thread/WARN]: Tris23 moved too quickly! -1087.800000011921,0.0,-1002.0068944450732
+[22:19:27] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[22:24:09] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[22:24:20] [Server thread/INFO]: Villager cmk['Villager'/94178, l='ServerLevel[world]', x=887.49, y=63.00, z=-5420.13] died, message: 'Villager was slain by Zombie'
+[22:24:34] [Server thread/INFO]: Locating element minecraft:mansion took 267 ms
+[22:25:39] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[22:25:39] [Server thread/WARN]: Tris23 moved too quickly! 15.889765543453905,9.041109260938214,-60.67120791606612
+[22:25:39] [Server thread/WARN]: Tris23 moved too quickly! 15.889765543453905,9.041109260938214,-60.67120791606612
+[22:27:13] [Server thread/INFO]: [Tris23: Teleported Tris23 to Evandre]
+[22:27:13] [Server thread/WARN]: Tris23 moved too quickly! -25.37438567291906,-0.711721182808148,-92.33946088771609
+[22:27:13] [Server thread/WARN]: Tris23 moved too quickly! -25.37438567291906,-0.711721182808148,-92.33946088771609
+[22:27:13] [Server thread/WARN]: Tris23 moved too quickly! -25.37438567291906,-0.711721182808148,-92.33946088771609
+[22:29:02] [Server thread/WARN]: Cherry Boat (vehicle of Tris23) moved wrongly! 0.2955848256705167
+[22:35:19] [Server thread/INFO]: Evandre lost connection: Disconnected
+[22:35:19] [Server thread/INFO]: Evandre left the game
+[22:35:37] [User Authenticator #5/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
+[22:35:38] [Server thread/INFO]: Evandre[/25.40.172.12:63138] logged in with entity id 104865 at (1424.584776811962, 63.0, -8511.937054567725)
+[22:35:38] [Server thread/INFO]: Evandre joined the game
+[22:39:58] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[22:40:00] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
+[22:40:56] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[22:41:01] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[22:41:05] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[22:52:38] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[22:52:41] [Server thread/INFO]: [Tris23: Set own game mode to Creative Mode]
+[22:53:36] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[22:54:57] [Server thread/INFO]: [Evandre: Set own game mode to Spectator Mode]
+[22:55:07] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
+[22:56:20] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[22:56:56] [Server thread/INFO]: Evandre lost connection: Disconnected
+[22:56:56] [Server thread/INFO]: Evandre left the game
+[22:57:19] [Server thread/INFO]: Tris23 lost connection: Disconnected
+[22:57:19] [Server thread/INFO]: Tris23 left the game
+[22:57:39] [Server thread/INFO]: Stopping server
+[22:57:39] [Server thread/INFO]: Saving players
+[22:57:39] [Server thread/INFO]: Saving worlds
+[22:57:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:57:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:57:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:57:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:57:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:57:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:57:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

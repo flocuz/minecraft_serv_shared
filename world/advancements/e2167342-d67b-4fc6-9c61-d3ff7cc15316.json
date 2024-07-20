@@ -20,6 +20,7 @@
       "minecraft:desert": "2024-06-24 23:02:30 +0200",
       "minecraft:frozen_river": "2024-07-01 21:07:03 +0200",
       "minecraft:deep_frozen_ocean": "2024-07-01 21:31:13 +0200",
+      "minecraft:windswept_forest": "2024-07-20 22:37:16 +0200",
       "minecraft:ocean": "2024-06-24 19:59:28 +0200",
       "minecraft:jungle": "2024-06-24 19:30:16 +0200",
       "minecraft:cherry_grove": "2024-06-24 17:49:18 +0200",
@@ -48,6 +49,7 @@
       "minecraft:old_growth_birch_forest": "2024-06-24 19:30:06 +0200",
       "minecraft:deep_dark": "2024-06-24 18:47:29 +0200",
       "minecraft:grove": "2024-06-24 22:05:42 +0200",
+      "minecraft:swamp": "2024-07-20 21:34:11 +0200",
       "minecraft:meadow": "2024-06-24 19:10:09 +0200",
       "minecraft:windswept_gravelly_hills": "2024-07-01 21:17:49 +0200",
       "minecraft:savanna": "2024-06-24 19:48:33 +0200",
@@ -487,27 +489,29 @@
       "minecraft:pillager": "2024-06-30 01:12:10 +0200",
       "minecraft:blaze": "2024-07-02 01:16:32 +0200",
       "minecraft:skeleton": "2024-06-24 18:18:52 +0200",
-      "minecraft:phantom": "2024-07-11 21:15:55 +0200",
-      "minecraft:zombified_piglin": "2024-07-02 01:14:29 +0200",
-      "minecraft:wither_skeleton": "2024-07-02 01:12:49 +0200",
-      "minecraft:husk": "2024-06-24 23:05:19 +0200",
       "minecraft:ghast": "2024-07-02 01:10:01 +0200",
-      "minecraft:cave_spider": "2024-06-24 22:17:08 +0200",
-      "minecraft:piglin": "2024-07-18 18:25:43 +0200",
       "minecraft:breeze": "2024-06-29 21:21:57 +0200",
-      "minecraft:enderman": "2024-06-24 19:05:32 +0200",
-      "minecraft:stray": "2024-06-29 20:52:54 +0200",
-      "minecraft:silverfish": "2024-06-29 21:30:24 +0200",
+      "minecraft:vindicator": "2024-07-20 22:41:19 +0200",
       "minecraft:magma_cube": "2024-07-02 01:25:10 +0200",
       "minecraft:spider": "2024-06-24 18:02:21 +0200",
       "minecraft:piglin_brute": "2024-07-18 18:25:40 +0200",
+      "minecraft:creeper": "2024-06-24 18:45:26 +0200",
+      "minecraft:slime": "2024-06-29 22:06:21 +0200",
+      "minecraft:evoker": "2024-07-01 22:14:12 +0200",
+      "minecraft:phantom": "2024-07-11 21:15:55 +0200",
+      "minecraft:zombified_piglin": "2024-07-02 01:14:29 +0200",
+      "minecraft:witch": "2024-07-20 22:06:05 +0200",
+      "minecraft:wither_skeleton": "2024-07-02 01:12:49 +0200",
+      "minecraft:husk": "2024-06-24 23:05:19 +0200",
+      "minecraft:cave_spider": "2024-06-24 22:17:08 +0200",
+      "minecraft:piglin": "2024-07-18 18:25:43 +0200",
+      "minecraft:enderman": "2024-06-24 19:05:32 +0200",
+      "minecraft:stray": "2024-06-29 20:52:54 +0200",
+      "minecraft:silverfish": "2024-06-29 21:30:24 +0200",
       "minecraft:vex": "2024-07-01 22:14:32 +0200",
       "minecraft:zombie": "2024-06-24 18:43:52 +0200",
-      "minecraft:creeper": "2024-06-24 18:45:26 +0200",
       "minecraft:drowned": "2024-06-24 20:13:46 +0200",
-      "minecraft:zombie_villager": "2024-06-24 19:24:50 +0200",
-      "minecraft:slime": "2024-06-29 22:06:21 +0200",
-      "minecraft:evoker": "2024-07-01 22:14:12 +0200"
+      "minecraft:zombie_villager": "2024-06-24 19:24:50 +0200"
     },
     "done": false
   },
@@ -645,6 +649,7 @@
       "baked_potato": "2024-06-29 21:39:01 +0200",
       "beef": "2024-06-30 00:50:57 +0200",
       "melon_slice": "2024-06-24 19:44:52 +0200",
+      "porkchop": "2024-07-20 20:31:26 +0200",
       "beetroot": "2024-07-17 15:11:57 +0200",
       "cooked_rabbit": "2024-06-24 19:17:15 +0200",
       "cooked_chicken": "2024-06-24 18:33:44 +0200",
@@ -4950,6 +4955,90 @@
   "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-07-18 22:54:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-07-20 18:08:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-07-20 18:08:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-07-20 18:08:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-07-20 18:08:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-07-20 18:08:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-07-20 18:08:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-07-20 18:08:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-07-20 18:08:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-07-20 18:08:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-07-20 18:08:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-07-20 18:08:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-07-20 18:12:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-07-20 22:51:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-07-20 22:51:42 +0200"
     },
     "done": true
   },
