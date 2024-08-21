@@ -167,6 +167,7 @@
       "minecraft:spider": "2024-06-24 18:43:56 +0200",
       "minecraft:piglin_brute": "2024-07-18 18:21:10 +0200",
       "minecraft:creeper": "2024-06-24 18:43:49 +0200",
+      "minecraft:wither": "2024-08-22 00:00:48 +0200",
       "minecraft:slime": "2024-06-29 22:06:18 +0200",
       "minecraft:phantom": "2024-07-11 22:34:36 +0200",
       "minecraft:zombified_piglin": "2024-07-02 01:14:45 +0200",
@@ -5563,6 +5564,42 @@
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2024-07-20 22:45:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-08-22 00:12:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-08-21 23:54:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-08-22 00:05:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-08-22 00:00:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-08-22 00:00:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-08-21 23:54:41 +0200"
     },
     "done": true
   },

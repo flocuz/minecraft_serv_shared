@@ -1,120 +1,27 @@
-[22:42:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:42:29] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
-com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to Connection reset by peer
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:108) ~[authlib-6.0.54.jar:?]
-	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:57) ~[authlib-6.0.54.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114) ~[authlib-6.0.54.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89) ~[authlib-6.0.54.jar:?]
-	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
-	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
-Caused by: java.net.SocketException: Connection reset by peer
-	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method) ~[?:?]
-	at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:54) ~[?:?]
-	at java.base/sun.nio.ch.NioSocketImpl.tryWrite(NioSocketImpl.java:394) ~[?:?]
-	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:410) ~[?:?]
-	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:440) ~[?:?]
-	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:819) ~[?:?]
-	at java.base/java.net.Socket$SocketOutputStream.implWrite(Socket.java:1223) ~[?:?]
-	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1210) ~[?:?]
-	at java.base/sun.security.ssl.SSLSocketOutputRecord.flush(SSLSocketOutputRecord.java:271) ~[?:?]
-	at java.base/sun.security.ssl.HandshakeOutStream.flush(HandshakeOutStream.java:89) ~[?:?]
-	at java.base/sun.security.ssl.ClientHello$ClientHelloKickstartProducer.produce(ClientHello.java:645) ~[?:?]
-	at java.base/sun.security.ssl.SSLHandshake.kickstart(SSLHandshake.java:526) ~[?:?]
-	at java.base/sun.security.ssl.ClientHandshakeContext.kickstart(ClientHandshakeContext.java:112) ~[?:?]
-	at java.base/sun.security.ssl.TransportContext.kickstart(TransportContext.java:258) ~[?:?]
-	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:448) ~[?:?]
-	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
-	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1691) ~[?:?]
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615) ~[?:?]
-	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:531) ~[?:?]
-	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307) ~[?:?]
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:84) ~[authlib-6.0.54.jar:?]
-	... 9 more
-[22:42:30] [ServerMain/INFO]: Loaded 1290 recipes
-[22:42:30] [ServerMain/INFO]: Loaded 1399 advancements
-[22:42:33] [Server thread/INFO]: Starting minecraft server version 1.21
-[22:42:33] [Server thread/INFO]: Loading properties
-[22:42:33] [Server thread/INFO]: Default game type: SURVIVAL
-[22:42:33] [Server thread/INFO]: Generating keypair
-[22:42:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:42:33] [Server thread/INFO]: Using default channel type
-[22:42:33] [Server thread/INFO]: Preparing level "world"
-[22:42:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:42:36] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:42:36] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:42:37] [Server thread/INFO]: Time elapsed: 1354 ms
-[22:42:37] [Server thread/INFO]: Done (3.780s)! For help, type "help"
-[22:44:56] [User Authenticator #1/INFO]: UUID of player Tris23 is 6aead32f-d501-4c44-a7df-759b55ab3f9e
-[22:44:57] [Server thread/INFO]: Tris23[/127.0.0.1:54288] logged in with entity id 93 at (42.49250468598588, 130.0, 29.532815903378193)
-[22:44:57] [Server thread/INFO]: Tris23 joined the game
-[22:44:58] [Server thread/WARN]: Ignoring chat session from Tris23 due to missing Services public key
-[22:52:54] [Server thread/INFO]: [Tris23: Set own game mode to Survival Mode]
-[23:04:13] [Server thread/INFO]: Tris23 was killed
-[23:04:13] [Server thread/INFO]: [Tris23: Killed Tris23]
-[23:04:14] [Server thread/WARN]: Tris23 moved too quickly! -220.83402947758398,150.0,300.87917423453365
-[23:14:10] [Server thread/INFO]: Tris23 was killed
-[23:14:10] [Server thread/INFO]: [Tris23: Killed Tris23]
-[23:14:12] [Server thread/WARN]: Tris23 moved too quickly! -220.08402168691705,150.0,301.19999998807907
-[23:14:12] [Server thread/WARN]: Tris23 moved too quickly! -220.08402168691705,150.0,301.19999998807907
-[23:14:55] [User Authenticator #2/INFO]: Disconnecting Evandre (/25.40.172.12:55442): Authentication servers are down. Please try again later, sorry!
-[23:14:55] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
-[23:14:55] [Server thread/INFO]: Evandre (/25.40.172.12:55442) lost connection: Authentication servers are down. Please try again later, sorry!
-[23:15:04] [User Authenticator #3/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[23:15:05] [Server thread/INFO]: Evandre[/25.40.172.12:55444] logged in with entity id 5838 at (1877.7526759874722, 62.0, -8762.173724830252)
-[23:15:05] [Server thread/INFO]: Evandre joined the game
-[23:15:21] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
-[23:15:33] [Server thread/INFO]: Evandre lost connection: Disconnected
-[23:15:33] [Server thread/INFO]: Evandre left the game
-[23:15:55] [User Authenticator #4/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[23:15:56] [Server thread/INFO]: Evandre[/25.40.172.12:55446] logged in with entity id 6250 at (45.60603485445437, 130.0, -22.613550494111628)
-[23:15:56] [Server thread/INFO]: Evandre joined the game
-[23:16:55] [Server thread/INFO]: Evandre lost connection: Disconnected
-[23:16:55] [Server thread/INFO]: Evandre left the game
-[23:17:13] [User Authenticator #5/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[23:17:14] [Server thread/INFO]: Evandre[/25.40.172.12:55454] logged in with entity id 6423 at (48.83056029304936, 131.0, -12.058513961635937)
-[23:17:14] [Server thread/INFO]: Evandre joined the game
-[23:17:19] [Server thread/INFO]: Evandre lost connection: Disconnected
-[23:17:19] [Server thread/INFO]: Evandre left the game
-[23:18:37] [User Authenticator #6/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[23:18:38] [Server thread/INFO]: Evandre[/25.40.172.12:58554] logged in with entity id 6589 at (48.03724219754669, 130.0, -11.626690530736262)
-[23:18:38] [Server thread/INFO]: Evandre joined the game
-[23:18:48] [Server thread/INFO]: Evandre lost connection: Disconnected
-[23:18:48] [Server thread/INFO]: Evandre left the game
-[23:19:02] [User Authenticator #7/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[23:19:03] [Server thread/INFO]: Evandre[/25.40.172.12:58559] logged in with entity id 6667 at (49.109627243228864, 131.0, -11.972779952736202)
-[23:19:03] [Server thread/INFO]: Evandre joined the game
-[23:19:27] [Server thread/INFO]: Evandre lost connection: Disconnected
-[23:19:27] [Server thread/INFO]: Evandre left the game
-[23:20:15] [User Authenticator #8/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[23:20:16] [Server thread/INFO]: Evandre[/25.40.172.12:58571] logged in with entity id 6782 at (49.109627243228864, 131.0, -11.972779952736202)
-[23:20:16] [Server thread/INFO]: Evandre joined the game
-[23:21:22] [Server thread/INFO]: Evandre lost connection: Disconnected
-[23:21:22] [Server thread/INFO]: Evandre left the game
-[23:21:42] [User Authenticator #9/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[23:21:43] [Server thread/INFO]: Evandre[/25.40.172.12:58574] logged in with entity id 6975 at (44.93714619131583, 130.0, -26.978473135305602)
-[23:21:43] [Server thread/INFO]: Evandre joined the game
-[23:22:30] [Server thread/INFO]: Evandre lost connection: Disconnected
-[23:22:30] [Server thread/INFO]: Evandre left the game
-[23:22:56] [User Authenticator #10/INFO]: UUID of player Evandre is e2167342-d67b-4fc6-9c61-d3ff7cc15316
-[23:22:57] [Server thread/INFO]: Evandre[/25.40.172.12:58577] logged in with entity id 7138 at (44.720874744693944, 130.0, -26.988879880310993)
-[23:22:57] [Server thread/INFO]: Evandre joined the game
-[23:23:53] [Server thread/INFO]: Evandre lost connection: Disconnected
-[23:23:53] [Server thread/INFO]: Evandre left the game
-[23:23:56] [Server thread/INFO]: Tris23 lost connection: Disconnected
-[23:23:56] [Server thread/INFO]: Tris23 left the game
-[23:23:59] [Server thread/INFO]: Stopping server
-[23:23:59] [Server thread/INFO]: Saving players
-[23:23:59] [Server thread/INFO]: Saving worlds
-[23:24:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:24:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:24:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:24:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:24:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:24:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:24:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:02] [Server thread/INFO]: Tris23 has made the advancement [Withering Heights]
+[00:00:02] [Server thread/INFO]: Evandre has made the advancement [Withering Heights]
+[00:02:03] [Server thread/INFO]: Tris23 was killed
+[00:02:03] [Server thread/INFO]: [Tris23: Killed Tris23]
+[00:02:04] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[00:02:04] [Server thread/WARN]: Tris23 moved too quickly! -79.80000001192093,21.5,60.46232880206347
+[00:02:07] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[00:08:19] [Server thread/INFO]: [Evandre: Teleported Evandre to Tris23]
+[00:10:19] [Server thread/INFO]: [Evandre: Set own game mode to Creative Mode]
+[00:12:21] [Server thread/INFO]: Tris23 has made the advancement [Bring Home the Beacon]
+[00:12:54] [Server thread/INFO]: [Evandre: Set the time to 1000]
+[00:13:28] [Server thread/INFO]: [Evandre: Set own game mode to Survival Mode]
+[00:15:24] [Server thread/INFO]: [Evandre: Set the time to 13000]
+[00:17:11] [Server thread/INFO]: Evandre lost connection: Disconnected
+[00:17:11] [Server thread/INFO]: Evandre left the game
+[00:17:49] [Server thread/INFO]: Tris23 lost connection: Disconnected
+[00:17:49] [Server thread/INFO]: Tris23 left the game
+[00:17:58] [Server thread/INFO]: Stopping server
+[00:17:58] [Server thread/INFO]: Saving players
+[00:17:58] [Server thread/INFO]: Saving worlds
+[00:17:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:17:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:17:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:17:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:17:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:17:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:17:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
